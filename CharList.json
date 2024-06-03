@@ -3098,7 +3098,7 @@
     "Wins": "5",
     "Losses": "3",
     "Ratio": "63",
-    "PB_Time": "7    s"
+    "PB_Time": "7    s"
   },
   "evil-soul-kofa": {
     "Picture": "evil-soul-kofa.png",
@@ -3315,7 +3315,7 @@
     "Wins": "4",
     "Losses": "3",
     "Ratio": "57",
-    "PB_Time": "1    s"
+    "PB_Time": "1    s"
   },
   "fliz-kofa": {
     "Picture": "fliz-kofa.png",
@@ -7722,7 +7722,7 @@
   },
   "mileena": {
     "Picture": "mileena.png",
-    "Wins": "‰",
+    "Wins": " ",
     "Losses": "5",
     "Ratio": "0",
     "PB_Time": "Elecbs"
@@ -10168,7 +10168,7 @@
     "Wins": "0",
     "Losses": "5",
     "Ratio": "0",
-    "PB_Time": "0\r§s"
+    "PB_Time": "0\r s"
   },
   "sheng-long-kofa": {
     "Picture": "sheng-long-kofa.png",
@@ -10273,7 +10273,7 @@
     "Wins": "0",
     "Losses": "",
     "Ratio": "N/A",
-    "PB_Time": "0\r§s"
+    "PB_Time": "0\r s"
   },
   "shin-go-hibiki-kofa": {
     "Picture": "shin-go-hibiki-kofa.png",
@@ -13165,5 +13165,5 @@
     "Losses": "1",
     "Ratio": "83",
     "PB_Time": "-0.73s"
-  },
+  }
 }
