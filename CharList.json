@@ -10271,9 +10271,9 @@
   "shin-akuma-kofa": {
     "Picture": "shin-akuma-kofa.png",
     "Wins": "0",
-    "Losses": "",
+    "Losses": "0",
     "Ratio": "N/A",
-    "PB_Time": "0\r s"
+    "PB_Time": "N/A"
   },
   "shin-go-hibiki-kofa": {
     "Picture": "shin-go-hibiki-kofa.png",
