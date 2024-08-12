@@ -1643,8 +1643,8 @@
   "EniesLobbyBusterCall": {
     "Picture": "EniesLobbyBusterCall.jpg"
   },
-  "Entropy Ruins": {
-    "Picture": "Entropy Ruins.jpg"
+  "Entropy_Ruins": {
+    "Picture": "Entropy_Ruins.jpg"
   },
   "Epic-world": {
     "Picture": "Epic-world.jpg"
@@ -4592,14 +4592,14 @@
   "SacredTree_1.1Zoom": {
     "Picture": "SacredTree_1.1Zoom.jpg"
   },
-  "Sakura Entropy": {
-    "Picture": "Sakura Entropy.jpg"
-  },
   "SakuragaokaPark": {
     "Picture": "SakuragaokaPark.jpg"
   },
   "SakuragaokaPark_1.1": {
     "Picture": "SakuragaokaPark_1.1.jpg"
+  },
+  "Sakura_Entropy": {
+    "Picture": "Sakura_Entropy.jpg"
   },
   "samurai_garden_1.1": {
     "Picture": "samurai_garden_1.1.jpg"
@@ -4868,9 +4868,6 @@
   "skullman": {
     "Picture": "skullman.jpg"
   },
-  "Sky Santuary": {
-    "Picture": "Sky Santuary.jpg"
-  },
   "SKY-KI2": {
     "Picture": "SKY-KI2.jpg"
   },
@@ -4879,6 +4876,9 @@
   },
   "Skyring": {
     "Picture": "Skyring.jpg"
+  },
+  "Sky_Santuary": {
+    "Picture": "Sky_Santuary.jpg"
   },
   "slamastro": {
     "Picture": "slamastro.jpg"
@@ -5087,9 +5087,6 @@
   "SoulChamber": {
     "Picture": "SoulChamber.jpg"
   },
-  "Space (Earth)": {
-    "Picture": "Space (Earth).jpg"
-  },
   "Space-Remastered": {
     "Picture": "Space-Remastered.jpg"
   },
@@ -5113,6 +5110,9 @@
   },
   "spaceship": {
     "Picture": "spaceship.jpg"
+  },
+  "Space_(Earth)": {
+    "Picture": "Space_(Earth).jpg"
   },
   "Space_Jam": {
     "Picture": "Space_Jam.jpg"
