@@ -1001,6 +1001,12 @@
   "CityOutSkirts": {
     "Picture": "CityOutSkirts.jpg"
   },
+  "Ciudad de Orgrimmar": {
+    "Picture": "Ciudad de Orgrimmar.jpg"
+  },
+  "Ciudad de Ventormenta": {
+    "Picture": "Ciudad de Ventormenta.jpg"
+  },
   "Classroom3-C": {
     "Picture": "Classroom3-C.jpg"
   },
@@ -1637,11 +1643,17 @@
   "EniesLobbyBusterCall": {
     "Picture": "EniesLobbyBusterCall.jpg"
   },
+  "Entropy Ruins": {
+    "Picture": "Entropy Ruins.jpg"
+  },
   "Epic-world": {
     "Picture": "Epic-world.jpg"
   },
   "Eteocles": {
     "Picture": "Eteocles.jpg"
+  },
+  "EverGreen Forest": {
+    "Picture": "EverGreen Forest.jpg"
   },
   "evilhq": {
     "Picture": "evilhq.jpg"
@@ -3788,6 +3800,54 @@
   "odinws": {
     "Picture": "odinws.jpg"
   },
+  "OG-Amazonas1.1": {
+    "Picture": "OG-Amazonas1.1.jpg"
+  },
+  "OG-ChinesseStreet1.1": {
+    "Picture": "OG-ChinesseStreet1.1.jpg"
+  },
+  "OG-Darkness1.1": {
+    "Picture": "OG-Darkness1.1.jpg"
+  },
+  "OG-Esmerald1.1": {
+    "Picture": "OG-Esmerald1.1.jpg"
+  },
+  "OG-Factory1.1": {
+    "Picture": "OG-Factory1.1.jpg"
+  },
+  "OG-Forest1.1": {
+    "Picture": "OG-Forest1.1.jpg"
+  },
+  "OG-Garden1.1": {
+    "Picture": "OG-Garden1.1.jpg"
+  },
+  "OG-JapanLake1.1": {
+    "Picture": "OG-JapanLake1.1.jpg"
+  },
+  "OG-Mexican": {
+    "Picture": "OG-Mexican.jpg"
+  },
+  "OG-Mexican1.1": {
+    "Picture": "OG-Mexican1.1.jpg"
+  },
+  "OG-MexicanCameo1.1": {
+    "Picture": "OG-MexicanCameo1.1.jpg"
+  },
+  "OG-RedQueen1.1": {
+    "Picture": "OG-RedQueen1.1.jpg"
+  },
+  "OG-SkullCave1.1": {
+    "Picture": "OG-SkullCave1.1.jpg"
+  },
+  "OG-Spanish1.1": {
+    "Picture": "OG-Spanish1.1.jpg"
+  },
+  "OG-WildWest1.1": {
+    "Picture": "OG-WildWest1.1.jpg"
+  },
+  "OG-Wonderland1.1": {
+    "Picture": "OG-Wonderland1.1.jpg"
+  },
   "Oil": {
     "Picture": "Oil.jpg"
   },
@@ -4532,6 +4592,9 @@
   "SacredTree_1.1Zoom": {
     "Picture": "SacredTree_1.1Zoom.jpg"
   },
+  "Sakura Entropy": {
+    "Picture": "Sakura Entropy.jpg"
+  },
   "SakuragaokaPark": {
     "Picture": "SakuragaokaPark.jpg"
   },
@@ -4805,6 +4868,9 @@
   "skullman": {
     "Picture": "skullman.jpg"
   },
+  "Sky Santuary": {
+    "Picture": "Sky Santuary.jpg"
+  },
   "SKY-KI2": {
     "Picture": "SKY-KI2.jpg"
   },
@@ -5020,6 +5086,9 @@
   },
   "SoulChamber": {
     "Picture": "SoulChamber.jpg"
+  },
+  "Space (Earth)": {
+    "Picture": "Space (Earth).jpg"
   },
   "Space-Remastered": {
     "Picture": "Space-Remastered.jpg"
