@@ -3238,7 +3238,7 @@
     "Wins": "5",
     "Losses": "5",
     "Ratio": "50",
-    "PB_Time": "8    s"
+    "PB_Time": "80.00s"
   },
   "evil-soul-kofa": {
     "Picture": "evil-soul-kofa.png",
@@ -3462,7 +3462,7 @@
     "Wins": "4",
     "Losses": "4",
     "Ratio": "50",
-    "PB_Time": "1    s"
+    "PB_Time": "1    s"
   },
   "fliz-kofa": {
     "Picture": "fliz-kofa.png",
@@ -8985,7 +8985,7 @@
     "Wins": "9",
     "Losses": "4",
     "Ratio": "69",
-    "PB_Time": "3    s"
+    "PB_Time": "3    s"
   },
   "orochi-kofa": {
     "Picture": "orochi-kofa.png",
