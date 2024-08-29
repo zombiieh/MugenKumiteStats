@@ -36,24 +36,24 @@
   },
   "Ace": {
     "Picture": "Ace.png",
-    "Wins": "12",
-    "Losses": "12",
+    "Wins": "13",
+    "Losses": "13",
     "Ratio": "50",
     "PB_Time": "23.72s"
   },
   "Ace-OP": {
     "Picture": "Ace-OP.png",
-    "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Wins": "7",
+    "Losses": "8",
+    "Ratio": "47",
     "PB_Time": "44.02s"
   },
   "ada-wong-kofa": {
     "Picture": "ada-wong-kofa.png",
-    "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
-    "PB_Time": "98.92s"
+    "Wins": "3",
+    "Losses": "5",
+    "Ratio": "38",
+    "PB_Time": "51.77s"
   },
   "adel-kof": {
     "Picture": "adel-kof.png",
@@ -86,14 +86,14 @@
   "agrail-kofa": {
     "Picture": "agrail-kofa.png",
     "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Losses": "7",
+    "Ratio": "42",
     "PB_Time": "45.12s"
   },
   "ai-kofa": {
     "Picture": "ai-kofa.png",
     "Wins": "0",
-    "Losses": "3",
+    "Losses": "4",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -127,10 +127,10 @@
   },
   "Aizen": {
     "Picture": "Aizen.png",
-    "Wins": "14",
-    "Losses": "6",
-    "Ratio": "70",
-    "PB_Time": "99s"
+    "Wins": "15",
+    "Losses": "7",
+    "Ratio": "68",
+    "PB_Time": "45.63s"
   },
   "Akainu-OP": {
     "Picture": "Akainu-OP.png",
@@ -197,30 +197,30 @@
   },
   "akira_h-other": {
     "Picture": "akira_h-other.png",
-    "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Wins": "4",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "35.73s"
   },
   "ako": {
     "Picture": "ako.png",
-    "Wins": "5",
-    "Losses": "12",
-    "Ratio": "29",
+    "Wins": "6",
+    "Losses": "13",
+    "Ratio": "32",
     "PB_Time": "17.33s"
   },
   "akuma-kofa": {
     "Picture": "akuma-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "14.22s"
   },
   "Aladdin": {
     "Picture": "Aladdin.png",
     "Wins": "14",
-    "Losses": "8",
-    "Ratio": "64",
+    "Losses": "9",
+    "Ratio": "61",
     "PB_Time": "22.47s"
   },
   "alba-kofa": {
@@ -232,9 +232,9 @@
   },
   "Alena": {
     "Picture": "Alena.png",
-    "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Wins": "4",
+    "Losses": "2",
+    "Ratio": "67",
     "PB_Time": "8.87s"
   },
   "alessi-jojo": {
@@ -267,10 +267,10 @@
   },
   "alfred-garou": {
     "Picture": "alfred-garou.png",
-    "Wins": "1",
-    "Losses": "12",
-    "Ratio": "8",
-    "PB_Time": "57.62s"
+    "Wins": "3",
+    "Losses": "13",
+    "Ratio": "19",
+    "PB_Time": "44.42s"
   },
   "alfred-kofa": {
     "Picture": "alfred-kofa.png",
@@ -302,9 +302,9 @@
   },
   "alice-kofa": {
     "Picture": "alice-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "54.93s"
   },
   "alice-nakata-kofa": {
@@ -330,9 +330,9 @@
   },
   "AllForOne": {
     "Picture": "AllForOne.png",
-    "Wins": "24",
-    "Losses": "10",
-    "Ratio": "71",
+    "Wins": "25",
+    "Losses": "12",
+    "Ratio": "68",
     "PB_Time": "22.68s"
   },
   "All_Might": {
@@ -400,10 +400,10 @@
   },
   "Amingo-MvC": {
     "Picture": "Amingo-MvC.png",
-    "Wins": "14",
-    "Losses": "6",
-    "Ratio": "70",
-    "PB_Time": "24.98s"
+    "Wins": "15",
+    "Losses": "7",
+    "Ratio": "68",
+    "PB_Time": "21.52s"
   },
   "amoumi-kofa": {
     "Picture": "amoumi-kofa.png",
@@ -421,9 +421,9 @@
   },
   "Anakaris-MvC": {
     "Picture": "Anakaris-MvC.png",
-    "Wins": "16",
-    "Losses": "7",
-    "Ratio": "70",
+    "Wins": "20",
+    "Losses": "8",
+    "Ratio": "71",
     "PB_Time": "11.43s"
   },
   "andrew-kofa": {
@@ -478,8 +478,8 @@
   "aner-kofa": {
     "Picture": "aner-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "70.43s"
   },
   "angel-kof": {
@@ -547,9 +547,9 @@
   },
   "another-heidern-kofa": {
     "Picture": "another-heidern-kofa.png",
-    "Wins": "15",
-    "Losses": "6",
-    "Ratio": "71",
+    "Wins": "16",
+    "Losses": "7",
+    "Ratio": "70",
     "PB_Time": "15.88s"
   },
   "another-iori-kofa": {
@@ -575,10 +575,10 @@
   },
   "another-kim-kofa": {
     "Picture": "another-kim-kofa.png",
-    "Wins": "0",
-    "Losses": "3",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "4",
+    "Ratio": "50",
+    "PB_Time": "69.88s"
   },
   "another-kyo-kofa": {
     "Picture": "another-kyo-kofa.png",
@@ -596,9 +596,9 @@
   },
   "another-robert-kofa": {
     "Picture": "another-robert-kofa.png",
-    "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Wins": "7",
+    "Losses": "7",
+    "Ratio": "50",
     "PB_Time": "21.77s"
   },
   "Anpanman": {
@@ -652,9 +652,9 @@
   },
   "Archimonde-GOD": {
     "Picture": "Archimonde-GOD.png",
-    "Wins": "30",
+    "Wins": "32",
     "Losses": "4",
-    "Ratio": "88",
+    "Ratio": "89",
     "PB_Time": "4.67s"
   },
   "Arcueid-melty": {
@@ -701,9 +701,9 @@
   },
   "Astraea-CHEAP": {
     "Picture": "Astraea-CHEAP.png",
-    "Wins": "5",
-    "Losses": "2",
-    "Ratio": "71",
+    "Wins": "10",
+    "Losses": "3",
+    "Ratio": "77",
     "PB_Time": "2.1s"
   },
   "asuka-kazama-kofa": {
@@ -800,8 +800,8 @@
   "athena-nurse-kofa": {
     "Picture": "athena-nurse-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "81.25s"
   },
   "athena-r-kofa": {
@@ -834,7 +834,7 @@
   },
   "Aurum_Colonel-GOD": {
     "Picture": "Aurum_Colonel-GOD.png",
-    "Wins": "35",
+    "Wins": "36",
     "Losses": "0",
     "Ratio": "100",
     "PB_Time": "-0.98s"
@@ -883,15 +883,15 @@
   },
   "azel-kofa": {
     "Picture": "azel-kofa.png",
-    "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Wins": "5",
+    "Losses": "7",
+    "Ratio": "42",
     "PB_Time": "35.55s"
   },
   "bad-megaman-kofa": {
     "Picture": "bad-megaman-kofa.png",
-    "Wins": "4",
-    "Losses": "4",
+    "Wins": "5",
+    "Losses": "5",
     "Ratio": "50",
     "PB_Time": "49.43s"
   },
@@ -933,8 +933,8 @@
   "baki": {
     "Picture": "baki.png",
     "Wins": "14",
-    "Losses": "8",
-    "Ratio": "64",
+    "Losses": "9",
+    "Ratio": "61",
     "PB_Time": "9.98s"
   },
   "baki-jus": {
@@ -989,8 +989,8 @@
   "bao-kofa": {
     "Picture": "bao-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "53.25s"
   },
   "baom-kof": {
@@ -1003,8 +1003,8 @@
   "baraka": {
     "Picture": "baraka.png",
     "Wins": "10",
-    "Losses": "12",
-    "Ratio": "45",
+    "Losses": "13",
+    "Ratio": "43",
     "PB_Time": "26.6s"
   },
   "Bardock": {
@@ -1016,10 +1016,10 @@
   },
   "Barney": {
     "Picture": "Barney.png",
-    "Wins": "1",
-    "Losses": "1",
+    "Wins": "2",
+    "Losses": "2",
     "Ratio": "50",
-    "PB_Time": "40.1s"
+    "PB_Time": "36.65s"
   },
   "baroness-kofa": {
     "Picture": "baroness-kofa.png",
@@ -1052,8 +1052,8 @@
   "basara-samsho": {
     "Picture": "basara-samsho.png",
     "Wins": "11",
-    "Losses": "8",
-    "Ratio": "58",
+    "Losses": "9",
+    "Ratio": "55",
     "PB_Time": "21.47s"
   },
   "bash-garou": {
@@ -1065,10 +1065,10 @@
   },
   "Batman": {
     "Picture": "Batman.png",
-    "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
-    "PB_Time": "59.72s"
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
+    "PB_Time": "38.47s"
   },
   "battle-suit-kofa": {
     "Picture": "battle-suit-kofa.png",
@@ -1094,8 +1094,8 @@
   "Beerus": {
     "Picture": "Beerus.png",
     "Wins": "32",
-    "Losses": "14",
-    "Ratio": "70",
+    "Losses": "15",
+    "Ratio": "68",
     "PB_Time": "8.37s"
   },
   "bender": {
@@ -1129,8 +1129,8 @@
   "bia-peres-kofa": {
     "Picture": "bia-peres-kofa.png",
     "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "67.1s"
   },
   "bigbear-kofa": {
@@ -1150,8 +1150,8 @@
   "billy-classic-kofa": {
     "Picture": "billy-classic-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "53.73s"
   },
   "billy-kof": {
@@ -1206,22 +1206,22 @@
   "bishamon-DS": {
     "Picture": "bishamon-DS.png",
     "Wins": "5",
-    "Losses": "8",
-    "Ratio": "38",
+    "Losses": "9",
+    "Ratio": "36",
     "PB_Time": "38.75s"
   },
   "bjenet-kofa": {
     "Picture": "bjenet-kofa.png",
-    "Wins": "6",
-    "Losses": "6",
-    "Ratio": "50",
+    "Wins": "7",
+    "Losses": "8",
+    "Ratio": "47",
     "PB_Time": "34.58s"
   },
   "Black": {
     "Picture": "Black.png",
     "Wins": "9",
-    "Losses": "9",
-    "Ratio": "50",
+    "Losses": "10",
+    "Ratio": "47",
     "PB_Time": "20.75s"
   },
   "black-widow-kofa": {
@@ -1233,16 +1233,16 @@
   },
   "blackheart-mv": {
     "Picture": "blackheart-mv.png",
-    "Wins": "13",
-    "Losses": "10",
-    "Ratio": "57",
+    "Wins": "14",
+    "Losses": "11",
+    "Ratio": "56",
     "PB_Time": "17.13s"
   },
   "BlackHeart-MvC": {
     "Picture": "BlackHeart-MvC.png",
-    "Wins": "14",
-    "Losses": "6",
-    "Ratio": "70",
+    "Wins": "15",
+    "Losses": "7",
+    "Ratio": "68",
     "PB_Time": "15.92s"
   },
   "BlackMagicianGirl": {
@@ -1261,15 +1261,15 @@
   },
   "BLACK_ROCK_SHOOTER": {
     "Picture": "BLACK_ROCK_SHOOTER.png",
-    "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
-    "PB_Time": "28.5s"
+    "Wins": "6",
+    "Losses": "3",
+    "Ratio": "67",
+    "PB_Time": "13.45s"
   },
   "Black_Vegetto_Transform": {
     "Picture": "Black_Vegetto_Transform.png",
-    "Wins": "17",
-    "Losses": "5",
+    "Wins": "20",
+    "Losses": "6",
     "Ratio": "77",
     "PB_Time": "12.65s"
   },
@@ -1304,13 +1304,13 @@
   "bluemary-mi-kofa": {
     "Picture": "bluemary-mi-kofa.png",
     "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
+    "Losses": "5",
+    "Ratio": "17",
     "PB_Time": "67.75s"
   },
   "Blue_Colonel-GOD": {
     "Picture": "Blue_Colonel-GOD.png",
-    "Wins": "29",
+    "Wins": "30",
     "Losses": "4",
     "Ratio": "88",
     "PB_Time": "0.68s"
@@ -1325,8 +1325,8 @@
   "bob-wilson-kofa": {
     "Picture": "bob-wilson-kofa.png",
     "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Losses": "6",
+    "Ratio": "25",
     "PB_Time": "45.7s"
   },
   "bob_ex-garou": {
@@ -1352,9 +1352,9 @@
   },
   "Boruto_Byakugan": {
     "Picture": "Boruto_Byakugan.png",
-    "Wins": "4",
-    "Losses": "6",
-    "Ratio": "40",
+    "Wins": "8",
+    "Losses": "7",
+    "Ratio": "53",
     "PB_Time": "34.95s"
   },
   "borz-kofa": {
@@ -1367,8 +1367,8 @@
   "boss-syndrome-goenitz-kofa": {
     "Picture": "boss-syndrome-goenitz-kofa.png",
     "Wins": "6",
-    "Losses": "6",
-    "Ratio": "50",
+    "Losses": "7",
+    "Ratio": "46",
     "PB_Time": "52.8s"
   },
   "Boss_Sagat": {
@@ -1387,17 +1387,17 @@
   },
   "brian-jmax-kofa": {
     "Picture": "brian-jmax-kofa.png",
-    "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "6",
+    "Ratio": "40",
+    "PB_Time": "52.38s"
   },
   "brian-kof": {
     "Picture": "brian-kof.png",
-    "Wins": "2",
-    "Losses": "2",
+    "Wins": "3",
+    "Losses": "3",
     "Ratio": "50",
-    "PB_Time": "49.37s"
+    "PB_Time": "38.07s"
   },
   "brian-kofa": {
     "Picture": "brian-kofa.png",
@@ -1443,16 +1443,16 @@
   },
   "Broly": {
     "Picture": "Broly.png",
-    "Wins": "14",
-    "Losses": "14",
-    "Ratio": "50",
+    "Wins": "17",
+    "Losses": "15",
+    "Ratio": "53",
     "PB_Time": "14.82s"
   },
   "BrolyMovie": {
     "Picture": "BrolyMovie.png",
     "Wins": "19",
-    "Losses": "14",
-    "Ratio": "58",
+    "Losses": "15",
+    "Ratio": "56",
     "PB_Time": "22.28s"
   },
   "Broly_2019": {
@@ -1472,15 +1472,15 @@
   "Brook-OP": {
     "Picture": "Brook-OP.png",
     "Wins": "7",
-    "Losses": "5",
-    "Ratio": "58",
+    "Losses": "6",
+    "Ratio": "54",
     "PB_Time": "36.03s"
   },
   "Bruno-jojo": {
     "Picture": "Bruno-jojo.png",
     "Wins": "16",
-    "Losses": "9",
-    "Ratio": "64",
+    "Losses": "10",
+    "Ratio": "62",
     "PB_Time": "16.73s"
   },
   "Buck_Dozer": {
@@ -1520,8 +1520,8 @@
   },
   "c-krizalid-kofa": {
     "Picture": "c-krizalid-kofa.png",
-    "Wins": "6",
-    "Losses": "6",
+    "Wins": "7",
+    "Losses": "7",
     "Ratio": "50",
     "PB_Time": "26.58s"
   },
@@ -1549,15 +1549,15 @@
   "cable-mv": {
     "Picture": "cable-mv.png",
     "Wins": "8",
-    "Losses": "8",
-    "Ratio": "50",
+    "Losses": "9",
+    "Ratio": "47",
     "PB_Time": "24.97s"
   },
   "Cable-MvC": {
     "Picture": "Cable-MvC.png",
     "Wins": "26",
-    "Losses": "11",
-    "Ratio": "70",
+    "Losses": "12",
+    "Ratio": "68",
     "PB_Time": "11.72s"
   },
   "Caesar_Zeppeli-jojo": {
@@ -1570,8 +1570,8 @@
   "cammy-kofa": {
     "Picture": "cammy-kofa.png",
     "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "67.38s"
   },
   "Cammy-MvC": {
@@ -1584,8 +1584,8 @@
   "Cana": {
     "Picture": "Cana.png",
     "Wins": "18",
-    "Losses": "8",
-    "Ratio": "69",
+    "Losses": "9",
+    "Ratio": "67",
     "PB_Time": "27.65s"
   },
   "candy-kofa": {
@@ -1682,8 +1682,8 @@
   "cassios-kofa": {
     "Picture": "cassios-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "78.73s"
   },
   "catwoman-kofa": {
@@ -1702,9 +1702,9 @@
   },
   "cecilia-kofa": {
     "Picture": "cecilia-kofa.png",
-    "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Wins": "5",
+    "Losses": "5",
+    "Ratio": "50",
     "PB_Time": "9.53s"
   },
   "Cell": {
@@ -1717,15 +1717,15 @@
   "ceo-of-kof-kofa": {
     "Picture": "ceo-of-kof-kofa.png",
     "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Losses": "3",
+    "Ratio": "40",
     "PB_Time": "98.93s"
   },
   "chae-lim-kofa": {
     "Picture": "chae-lim-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "74.28s"
   },
   "chalice-kofa": {
@@ -1738,21 +1738,21 @@
   "cham-cham-kofa": {
     "Picture": "cham-cham-kofa.png",
     "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Losses": "7",
+    "Ratio": "42",
     "PB_Time": "61.92s"
   },
   "chang&choi-94-kofa": {
     "Picture": "chang&choi-94-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "33.35s"
   },
   "chang-kof": {
     "Picture": "chang-kof.png",
-    "Wins": "4",
-    "Losses": "4",
+    "Wins": "6",
+    "Losses": "6",
     "Ratio": "50",
     "PB_Time": "28.87s"
   },
@@ -1765,10 +1765,10 @@
   },
   "chaos-kofa": {
     "Picture": "chaos-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
-    "PB_Time": "49.33s"
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
+    "PB_Time": "26.38s"
   },
   "charlie-kofa": {
     "Picture": "charlie-kofa.png",
@@ -1850,8 +1850,8 @@
   "chintai-kofa": {
     "Picture": "chintai-kofa.png",
     "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Losses": "6",
+    "Ratio": "25",
     "PB_Time": "81.22s"
   },
   "chizuru&maki-kofa": {
@@ -1919,23 +1919,23 @@
   },
   "Chopper-OP": {
     "Picture": "Chopper-OP.png",
-    "Wins": "9",
-    "Losses": "11",
+    "Wins": "10",
+    "Losses": "12",
     "Ratio": "45",
-    "PB_Time": "30.48s"
+    "PB_Time": "28.23s"
   },
   "ChopperTS-OP": {
     "Picture": "ChopperTS-OP.png",
     "Wins": "7",
-    "Losses": "5",
-    "Ratio": "58",
+    "Losses": "6",
+    "Ratio": "54",
     "PB_Time": "50.78s"
   },
   "Chopper_JUS": {
     "Picture": "Chopper_JUS.png",
-    "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "18.75s"
   },
   "chris-kof": {
@@ -1975,7 +1975,7 @@
   },
   "ChuckNorris-GOD": {
     "Picture": "ChuckNorris-GOD.png",
-    "Wins": "32",
+    "Wins": "35",
     "Losses": "0",
     "Ratio": "100",
     "PB_Time": "-0.98s"
@@ -2010,16 +2010,16 @@
   },
   "clark-kof": {
     "Picture": "clark-kof.png",
-    "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "18.95s"
   },
   "clark-kofa": {
     "Picture": "clark-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "19.1s"
   },
   "claudia-kofa": {
@@ -2038,10 +2038,10 @@
   },
   "clone-iori-kofa": {
     "Picture": "clone-iori-kofa.png",
-    "Wins": "0",
-    "Losses": "4",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "5",
+    "Ratio": "17",
+    "PB_Time": "50.95s"
   },
   "clone-kyo-blood-kofa": {
     "Picture": "clone-kyo-blood-kofa.png",
@@ -2053,8 +2053,8 @@
   "clone-orochi-kofa": {
     "Picture": "clone-orochi-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "55.15s"
   },
   "clone-ss-kofa": {
@@ -2066,16 +2066,16 @@
   },
   "CNorris": {
     "Picture": "CNorris.png",
-    "Wins": "0",
-    "Losses": "9",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "11",
+    "Ratio": "8",
+    "PB_Time": "80.8s"
   },
   "Coby-OP": {
     "Picture": "Coby-OP.png",
     "Wins": "12",
-    "Losses": "11",
-    "Ratio": "52",
+    "Losses": "12",
+    "Ratio": "50",
     "PB_Time": "46.87s"
   },
   "Code.C.Yagevil-GOD": {
@@ -2102,7 +2102,7 @@
   "cody-SF": {
     "Picture": "cody-SF.png",
     "Wins": "0",
-    "Losses": "7",
+    "Losses": "8",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -2171,10 +2171,10 @@
   },
   "Crazy_Catastrophe-GOD": {
     "Picture": "Crazy_Catastrophe-GOD.png",
-    "Wins": "18",
+    "Wins": "19",
     "Losses": "0",
     "Ratio": "100",
-    "PB_Time": "-0.62s"
+    "PB_Time": "-0.98s"
   },
   "Crocodile": {
     "Picture": "Crocodile.png",
@@ -2249,8 +2249,8 @@
   "cvskim-kof": {
     "Picture": "cvskim-kof.png",
     "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Losses": "6",
+    "Ratio": "25",
     "PB_Time": "40.98s"
   },
   "cvsmai-kof": {
@@ -2270,15 +2270,15 @@
   "cvsrock-garou": {
     "Picture": "cvsrock-garou.png",
     "Wins": "7",
-    "Losses": "5",
-    "Ratio": "58",
+    "Losses": "6",
+    "Ratio": "54",
     "PB_Time": "15.03s"
   },
   "cvsrugal-kof": {
     "Picture": "cvsrugal-kof.png",
-    "Wins": "7",
-    "Losses": "4",
-    "Ratio": "64",
+    "Wins": "8",
+    "Losses": "5",
+    "Ratio": "62",
     "PB_Time": "25.02s"
   },
   "cvsryo-kof": {
@@ -2297,24 +2297,24 @@
   },
   "cvsvega-SF": {
     "Picture": "cvsvega-SF.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "32.05s"
+    "Wins": "4",
+    "Losses": "3",
+    "Ratio": "57",
+    "PB_Time": "19.35s"
   },
   "cvsvice-kof": {
     "Picture": "cvsvice-kof.png",
     "Wins": "2",
-    "Losses": "3",
-    "Ratio": "40",
+    "Losses": "4",
+    "Ratio": "33",
     "PB_Time": "36.28s"
   },
   "cvsyamazaki-kof": {
     "Picture": "cvsyamazaki-kof.png",
-    "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
-    "PB_Time": "55.93s"
+    "Wins": "3",
+    "Losses": "6",
+    "Ratio": "33",
+    "PB_Time": "38.08s"
   },
   "Cvs_Maki-capcom": {
     "Picture": "Cvs_Maki-capcom.png",
@@ -2368,16 +2368,16 @@
   "cycloid-omega-kofa": {
     "Picture": "cycloid-omega-kofa.png",
     "Wins": "2",
-    "Losses": "3",
-    "Ratio": "40",
+    "Losses": "4",
+    "Ratio": "33",
     "PB_Time": "24.27s"
   },
   "cyclops-mv": {
     "Picture": "cyclops-mv.png",
-    "Wins": "1",
-    "Losses": "9",
-    "Ratio": "10",
-    "PB_Time": "49.43s"
+    "Wins": "4",
+    "Losses": "10",
+    "Ratio": "29",
+    "PB_Time": "33.68s"
   },
   "Cyclops-MvC": {
     "Picture": "Cyclops-MvC.png",
@@ -2389,7 +2389,7 @@
   "d'bo-jojo": {
     "Picture": "d'bo-jojo.png",
     "Wins": "0",
-    "Losses": "5",
+    "Losses": "6",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -2424,8 +2424,8 @@
   "daimon-kofa": {
     "Picture": "daimon-kofa.png",
     "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Losses": "7",
+    "Ratio": "30",
     "PB_Time": "98.92s"
   },
   "dan-kofa": {
@@ -2444,10 +2444,10 @@
   },
   "dan-SF": {
     "Picture": "dan-SF.png",
-    "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
-    "PB_Time": "44.88s"
+    "Wins": "8",
+    "Losses": "7",
+    "Ratio": "53",
+    "PB_Time": "30.78s"
   },
   "dante": {
     "Picture": "dante.png",
@@ -2494,8 +2494,8 @@
   "dark-ai-kofa": {
     "Picture": "dark-ai-kofa.png",
     "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
+    "Losses": "5",
+    "Ratio": "55",
     "PB_Time": "2.45s"
   },
   "dark-genjuro-kofa": {
@@ -2556,9 +2556,9 @@
   },
   "DarkDonald-GOD": {
     "Picture": "DarkDonald-GOD.png",
-    "Wins": "28",
+    "Wins": "29",
     "Losses": "2",
-    "Ratio": "93",
+    "Ratio": "94",
     "PB_Time": "0.3s"
   },
   "Dark_Chunli": {
@@ -2577,16 +2577,16 @@
   },
   "darth-maul-kofa": {
     "Picture": "darth-maul-kofa.png",
-    "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
-    "PB_Time": "49.23s"
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
+    "PB_Time": "47.02s"
   },
   "dash-kofa": {
     "Picture": "dash-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "52.12s"
   },
   "david-ragnagard-kofa": {
@@ -2598,9 +2598,9 @@
   },
   "Deadpool": {
     "Picture": "Deadpool.png",
-    "Wins": "9",
-    "Losses": "6",
-    "Ratio": "60",
+    "Wins": "10",
+    "Losses": "7",
+    "Ratio": "59",
     "PB_Time": "23.88s"
   },
   "deadpool-kofa": {
@@ -2620,8 +2620,8 @@
   "Death_Knight": {
     "Picture": "Death_Knight.png",
     "Wins": "6",
-    "Losses": "2",
-    "Ratio": "75",
+    "Losses": "3",
+    "Ratio": "67",
     "PB_Time": "14.25s"
   },
   "deejay-kofa": {
@@ -2682,16 +2682,16 @@
   },
   "Destrudia_ruby-GOD": {
     "Picture": "Destrudia_ruby-GOD.png",
-    "Wins": "12",
+    "Wins": "13",
     "Losses": "3",
-    "Ratio": "80",
+    "Ratio": "81",
     "PB_Time": "9.8s"
   },
   "dhalsim-kofa": {
     "Picture": "dhalsim-kofa.png",
     "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Losses": "7",
+    "Ratio": "30",
     "PB_Time": "74.58s"
   },
   "dhalsim-SF": {
@@ -2704,8 +2704,8 @@
   "diamond-kofa": {
     "Picture": "diamond-kofa.png",
     "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Losses": "7",
+    "Ratio": "30",
     "PB_Time": "54.3s"
   },
   "diana-kofa": {
@@ -2725,8 +2725,8 @@
   "Diavolo": {
     "Picture": "Diavolo.png",
     "Wins": "33",
-    "Losses": "15",
-    "Ratio": "69",
+    "Losses": "16",
+    "Ratio": "67",
     "PB_Time": "17.5s"
   },
   "Diavolo-jojo": {
@@ -2780,16 +2780,16 @@
   },
   "dolf-kofa": {
     "Picture": "dolf-kofa.png",
-    "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Wins": "3",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "10.3s"
   },
   "domino-kofa": {
     "Picture": "domino-kofa.png",
-    "Wins": "9",
-    "Losses": "4",
-    "Ratio": "69",
+    "Wins": "13",
+    "Losses": "5",
+    "Ratio": "72",
     "PB_Time": "3.42s"
   },
   "donald": {
@@ -2823,8 +2823,8 @@
   "DonkeyKong": {
     "Picture": "DonkeyKong.png",
     "Wins": "8",
-    "Losses": "6",
-    "Ratio": "57",
+    "Losses": "7",
+    "Ratio": "53",
     "PB_Time": "32.7s"
   },
   "donovan-DS": {
@@ -2837,8 +2837,8 @@
   "doomfist": {
     "Picture": "doomfist.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "37.78s"
   },
   "double-a-kofa": {
@@ -2858,16 +2858,16 @@
   "dr-zan-kofa": {
     "Picture": "dr-zan-kofa.png",
     "Wins": "5",
-    "Losses": "5",
-    "Ratio": "50",
+    "Losses": "6",
+    "Ratio": "45",
     "PB_Time": "27.38s"
   },
   "dragon-ken-kofa": {
     "Picture": "dragon-ken-kofa.png",
-    "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
-    "PB_Time": "N/A"
+    "Wins": "3",
+    "Losses": "5",
+    "Ratio": "38",
+    "PB_Time": "50.2s"
   },
   "dragon-neogeo": {
     "Picture": "dragon-neogeo.png",
@@ -2878,9 +2878,9 @@
   },
   "DragonClaw": {
     "Picture": "DragonClaw.png",
-    "Wins": "9",
-    "Losses": "12",
-    "Ratio": "43",
+    "Wins": "12",
+    "Losses": "13",
+    "Ratio": "48",
     "PB_Time": "22.43s"
   },
   "dragonclaw-other": {
@@ -2907,16 +2907,16 @@
   "drdoom-mv": {
     "Picture": "drdoom-mv.png",
     "Wins": "6",
-    "Losses": "6",
-    "Ratio": "50",
+    "Losses": "7",
+    "Ratio": "46",
     "PB_Time": "15.05s"
   },
   "DrDoom-MvC": {
     "Picture": "DrDoom-MvC.png",
-    "Wins": "2",
-    "Losses": "1",
-    "Ratio": "67",
-    "PB_Time": "27.7s"
+    "Wins": "7",
+    "Losses": "3",
+    "Ratio": "70",
+    "PB_Time": "12.83s"
   },
   "duck-king-kofa": {
     "Picture": "duck-king-kofa.png",
@@ -2934,9 +2934,9 @@
   },
   "duck_king-kof": {
     "Picture": "duck_king-kof.png",
-    "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
     "PB_Time": "17.33s"
   },
   "dudley-SF": {
@@ -2991,15 +2991,15 @@
   "earthquake-kofa": {
     "Picture": "earthquake-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "69.07s"
   },
   "Edward": {
     "Picture": "Edward.png",
-    "Wins": "5",
-    "Losses": "5",
-    "Ratio": "50",
+    "Wins": "9",
+    "Losses": "6",
+    "Ratio": "60",
     "PB_Time": "16.12s"
   },
   "Edward_Elric": {
@@ -3039,9 +3039,9 @@
   },
   "electro_recharged": {
     "Picture": "electro_recharged.png",
-    "Wins": "2",
-    "Losses": "1",
-    "Ratio": "67",
+    "Wins": "3",
+    "Losses": "2",
+    "Ratio": "60",
     "PB_Time": "21.7s"
   },
   "elegant-orochi-kofa": {
@@ -3068,8 +3068,8 @@
   "element-kofa": {
     "Picture": "element-kofa.png",
     "Wins": "12",
-    "Losses": "6",
-    "Ratio": "67",
+    "Losses": "7",
+    "Ratio": "63",
     "PB_Time": "31.52s"
   },
   "Elena-SF": {
@@ -3144,10 +3144,10 @@
   },
   "Enel": {
     "Picture": "Enel.png",
-    "Wins": "12",
-    "Losses": "11",
-    "Ratio": "52",
-    "PB_Time": "38.45s"
+    "Wins": "16",
+    "Losses": "12",
+    "Ratio": "57",
+    "PB_Time": "36.07s"
   },
   "Enel-OP": {
     "Picture": "Enel-OP.png",
@@ -3159,8 +3159,8 @@
   "enja-kofa": {
     "Picture": "enja-kofa.png",
     "Wins": "4",
-    "Losses": "2",
-    "Ratio": "67",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "16.78s"
   },
   "eputh-blood-kofa": {
@@ -3193,8 +3193,8 @@
   },
   "Es": {
     "Picture": "Es.png",
-    "Wins": "4",
-    "Losses": "2",
+    "Wins": "6",
+    "Losses": "3",
     "Ratio": "67",
     "PB_Time": "18.02s"
   },
@@ -3238,7 +3238,7 @@
     "Wins": "5",
     "Losses": "5",
     "Ratio": "50",
-    "PB_Time": "80.00s"
+    "PB_Time": "80.00ss"
   },
   "evil-soul-kofa": {
     "Picture": "evil-soul-kofa.png",
@@ -3320,16 +3320,16 @@
   "EyedolMO": {
     "Picture": "EyedolMO.png",
     "Wins": "22",
-    "Losses": "9",
-    "Ratio": "71",
+    "Losses": "10",
+    "Ratio": "69",
     "PB_Time": "8.25s"
   },
   "falco-hnk-kofa": {
     "Picture": "falco-hnk-kofa.png",
-    "Wins": "0",
-    "Losses": "4",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "5",
+    "Ratio": "17",
+    "PB_Time": "81.07s"
   },
   "falco-kofa": {
     "Picture": "falco-kofa.png",
@@ -3341,7 +3341,7 @@
   "falcon-kofa": {
     "Picture": "falcon-kofa.png",
     "Wins": "0",
-    "Losses": "5",
+    "Losses": "6",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -3389,16 +3389,16 @@
   },
   "feilong-kofa": {
     "Picture": "feilong-kofa.png",
-    "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Wins": "4",
+    "Losses": "7",
+    "Ratio": "36",
     "PB_Time": "69.43s"
   },
   "FEILONGT": {
     "Picture": "FEILONGT.png",
     "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Losses": "7",
+    "Ratio": "42",
     "PB_Time": "42.53s"
   },
   "felden-kofa": {
@@ -3445,10 +3445,10 @@
   },
   "firebrand-kofa": {
     "Picture": "firebrand-kofa.png",
-    "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
-    "PB_Time": "66.5s"
+    "Wins": "6",
+    "Losses": "5",
+    "Ratio": "55",
+    "PB_Time": "4.73s"
   },
   "flames-iori-kofa": {
     "Picture": "flames-iori-kofa.png",
@@ -3460,15 +3460,15 @@
   "flamme-kofa": {
     "Picture": "flamme-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
-    "PB_Time": "1    s"
+    "Losses": "5",
+    "Ratio": "44",
+    "PB_Time": "1    s"
   },
   "fliz-kofa": {
     "Picture": "fliz-kofa.png",
     "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Losses": "6",
+    "Ratio": "25",
     "PB_Time": "25.53s"
   },
   "forte-kofa": {
@@ -3530,15 +3530,15 @@
   "freddy-krueger-kofa": {
     "Picture": "freddy-krueger-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "83.48s"
   },
   "free-garou": {
     "Picture": "free-garou.png",
-    "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Wins": "4",
+    "Losses": "7",
+    "Ratio": "36",
     "PB_Time": "26s"
   },
   "freeman-kofa": {
@@ -3557,9 +3557,9 @@
   },
   "Frieza": {
     "Picture": "Frieza.png",
-    "Wins": "18",
-    "Losses": "9",
-    "Ratio": "67",
+    "Wins": "19",
+    "Losses": "10",
+    "Ratio": "66",
     "PB_Time": "17.53s"
   },
   "Frieza1": {
@@ -3620,9 +3620,9 @@
   },
   "g-raging-kofa": {
     "Picture": "g-raging-kofa.png",
-    "Wins": "6",
-    "Losses": "8",
-    "Ratio": "43",
+    "Wins": "7",
+    "Losses": "9",
+    "Ratio": "44",
     "PB_Time": "27.52s"
   },
   "G6_Gaara": {
@@ -3704,15 +3704,15 @@
   },
   "gaira-caffeine-kofa": {
     "Picture": "gaira-caffeine-kofa.png",
-    "Wins": "4",
-    "Losses": "8",
-    "Ratio": "33",
+    "Wins": "7",
+    "Losses": "9",
+    "Ratio": "44",
     "PB_Time": "54.22s"
   },
   "Gaira-samsho": {
     "Picture": "Gaira-samsho.png",
     "Wins": "0",
-    "Losses": "7",
+    "Losses": "8",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -3739,9 +3739,9 @@
   },
   "galford-kofa": {
     "Picture": "galford-kofa.png",
-    "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Wins": "5",
+    "Losses": "7",
+    "Ratio": "42",
     "PB_Time": "53.95s"
   },
   "gambit-mv": {
@@ -3775,21 +3775,21 @@
   "Gargos": {
     "Picture": "Gargos.png",
     "Wins": "0",
-    "Losses": "15",
+    "Losses": "16",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "gars-kofa": {
     "Picture": "gars-kofa.png",
-    "Wins": "1",
-    "Losses": "2",
-    "Ratio": "33",
-    "PB_Time": "98.9s"
+    "Wins": "2",
+    "Losses": "3",
+    "Ratio": "40",
+    "PB_Time": "61.6s"
   },
   "Gasai_Yuno": {
     "Picture": "Gasai_Yuno.png",
-    "Wins": "14",
-    "Losses": "10",
+    "Wins": "15",
+    "Losses": "11",
     "Ratio": "58",
     "PB_Time": "32.73s"
   },
@@ -3817,8 +3817,8 @@
   "geese-kai-kofa": {
     "Picture": "geese-kai-kofa.png",
     "Wins": "6",
-    "Losses": "3",
-    "Ratio": "67",
+    "Losses": "4",
+    "Ratio": "60",
     "PB_Time": "64.07s"
   },
   "geese-kofa": {
@@ -3929,8 +3929,8 @@
   "gf_sub_reg": {
     "Picture": "gf_sub_reg.png",
     "Wins": "11",
-    "Losses": "10",
-    "Ratio": "52",
+    "Losses": "11",
+    "Ratio": "50",
     "PB_Time": "30s"
   },
   "ghost-rider-kofa": {
@@ -3971,8 +3971,8 @@
   "Giorno-jojo": {
     "Picture": "Giorno-jojo.png",
     "Wins": "6",
-    "Losses": "3",
-    "Ratio": "67",
+    "Losses": "4",
+    "Ratio": "60",
     "PB_Time": "31.87s"
   },
   "gladiator-kofa": {
@@ -3998,17 +3998,17 @@
   },
   "god-orochi-kofa": {
     "Picture": "god-orochi-kofa.png",
-    "Wins": "8",
-    "Losses": "4",
+    "Wins": "10",
+    "Losses": "5",
     "Ratio": "67",
     "PB_Time": "19.82s"
   },
   "god-silver-kofa": {
     "Picture": "god-silver-kofa.png",
-    "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
-    "PB_Time": "41.02s"
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
+    "PB_Time": "29.28s"
   },
   "goekuma-kofa": {
     "Picture": "goekuma-kofa.png",
@@ -4019,9 +4019,9 @@
   },
   "goeniko-kofa": {
     "Picture": "goeniko-kofa.png",
-    "Wins": "6",
-    "Losses": "8",
-    "Ratio": "43",
+    "Wins": "8",
+    "Losses": "9",
+    "Ratio": "47",
     "PB_Time": "29.52s"
   },
   "goenitz-kof": {
@@ -4047,9 +4047,9 @@
   },
   "Gogeta_Blue": {
     "Picture": "Gogeta_Blue.png",
-    "Wins": "14",
-    "Losses": "10",
-    "Ratio": "58",
+    "Wins": "16",
+    "Losses": "11",
+    "Ratio": "59",
     "PB_Time": "16.87s"
   },
   "Gogeta_SS4": {
@@ -4068,9 +4068,9 @@
   },
   "Gojo_Infinite_Venerable-GOD": {
     "Picture": "Gojo_Infinite_Venerable-GOD.png",
-    "Wins": "22",
+    "Wins": "26",
     "Losses": "5",
-    "Ratio": "81",
+    "Ratio": "84",
     "PB_Time": "4.3s"
   },
   "Goku": {
@@ -4082,9 +4082,9 @@
   },
   "goku-kofa": {
     "Picture": "goku-kofa.png",
-    "Wins": "4",
-    "Losses": "2",
-    "Ratio": "67",
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
     "PB_Time": "47.63s"
   },
   "gokuraku-kofa": {
@@ -4124,23 +4124,23 @@
   },
   "Goku_Black_SSW": {
     "Picture": "Goku_Black_SSW.png",
-    "Wins": "23",
-    "Losses": "7",
-    "Ratio": "77",
+    "Wins": "24",
+    "Losses": "8",
+    "Ratio": "75",
     "PB_Time": "20.68s"
   },
   "Goku_JUS2": {
     "Picture": "Goku_JUS2.png",
     "Wins": "27",
-    "Losses": "8",
-    "Ratio": "77",
+    "Losses": "9",
+    "Ratio": "75",
     "PB_Time": "22.12s"
   },
   "Goku_Mastered": {
     "Picture": "Goku_Mastered.png",
-    "Wins": "15",
-    "Losses": "10",
-    "Ratio": "60",
+    "Wins": "17",
+    "Losses": "11",
+    "Ratio": "61",
     "PB_Time": "21.22s"
   },
   "Goku_MUI_5": {
@@ -4152,9 +4152,9 @@
   },
   "Goku_SS": {
     "Picture": "Goku_SS.png",
-    "Wins": "19",
-    "Losses": "14",
-    "Ratio": "58",
+    "Wins": "20",
+    "Losses": "15",
+    "Ratio": "57",
     "PB_Time": "20.83s"
   },
   "Goku_SS2": {
@@ -4166,9 +4166,9 @@
   },
   "Goku_SS3": {
     "Picture": "Goku_SS3.png",
-    "Wins": "14",
-    "Losses": "7",
-    "Ratio": "67",
+    "Wins": "16",
+    "Losses": "9",
+    "Ratio": "64",
     "PB_Time": "24.68s"
   },
   "Goku_SS4": {
@@ -4187,9 +4187,9 @@
   },
   "Goku_SSBLUE": {
     "Picture": "Goku_SSBLUE.png",
-    "Wins": "16",
-    "Losses": "8",
-    "Ratio": "67",
+    "Wins": "17",
+    "Losses": "10",
+    "Ratio": "63",
     "PB_Time": "19.13s"
   },
   "Goku_SSGOD": {
@@ -4201,10 +4201,10 @@
   },
   "Goku_TP": {
     "Picture": "Goku_TP.png",
-    "Wins": "16",
-    "Losses": "8",
-    "Ratio": "67",
-    "PB_Time": "2.37s"
+    "Wins": "21",
+    "Losses": "9",
+    "Ratio": "70",
+    "PB_Time": "1.75s"
   },
   "Goku_UI": {
     "Picture": "Goku_UI.png",
@@ -4264,10 +4264,10 @@
   },
   "gouken-kofa": {
     "Picture": "gouken-kofa.png",
-    "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
-    "PB_Time": "51.1s"
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
+    "PB_Time": "45.23s"
   },
   "gouki-SF": {
     "Picture": "gouki-SF.png",
@@ -4293,8 +4293,8 @@
   "grand-master-ryu-kofa": {
     "Picture": "grand-master-ryu-kofa.png",
     "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Losses": "4",
+    "Ratio": "50",
     "PB_Time": "68.33s"
   },
   "grant-garou": {
@@ -4321,8 +4321,8 @@
   "Gray_Start": {
     "Picture": "Gray_Start.png",
     "Wins": "11",
-    "Losses": "10",
-    "Ratio": "52",
+    "Losses": "11",
+    "Ratio": "50",
     "PB_Time": "31.42s"
   },
   "green-kofa": {
@@ -4335,7 +4335,7 @@
   "griffon-kof": {
     "Picture": "griffon-kof.png",
     "Wins": "0",
-    "Losses": "5",
+    "Losses": "6",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -4404,23 +4404,23 @@
   },
   "Guts_A": {
     "Picture": "Guts_A.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "2",
+    "Ratio": "67",
+    "PB_Time": "6.1s"
   },
   "guy-kofa": {
     "Picture": "guy-kofa.png",
-    "Wins": "6",
-    "Losses": "8",
-    "Ratio": "43",
+    "Wins": "7",
+    "Losses": "9",
+    "Ratio": "44",
     "PB_Time": "23.77s"
   },
   "guycvs-SF": {
     "Picture": "guycvs-SF.png",
     "Wins": "12",
-    "Losses": "11",
-    "Ratio": "52",
+    "Losses": "12",
+    "Ratio": "50",
     "PB_Time": "16.7s"
   },
   "hagen-kofa": {
@@ -4446,16 +4446,16 @@
   },
   "hakufu-kofa": {
     "Picture": "hakufu-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "37.25s"
   },
   "hanzo-kofa": {
     "Picture": "hanzo-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "53.32s"
   },
   "hanzo-ss-kofa": {
@@ -4510,8 +4510,8 @@
   "hayate-kofa": {
     "Picture": "hayate-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "6",
+    "Ratio": "33",
     "PB_Time": "37.93s"
   },
   "Hayato-capcom": {
@@ -4607,16 +4607,16 @@
   },
   "hibiki-lb": {
     "Picture": "hibiki-lb.png",
-    "Wins": "7",
-    "Losses": "5",
-    "Ratio": "58",
-    "PB_Time": "24.9s"
+    "Wins": "11",
+    "Losses": "7",
+    "Ratio": "61",
+    "PB_Time": "20.82s"
   },
   "Hiei_Edit": {
     "Picture": "Hiei_Edit.png",
-    "Wins": "18",
-    "Losses": "9",
-    "Ratio": "67",
+    "Wins": "19",
+    "Losses": "10",
+    "Ratio": "66",
     "PB_Time": "11.97s"
   },
   "hien-capcom": {
@@ -4649,9 +4649,9 @@
   },
   "hikaru-pim-kofa": {
     "Picture": "hikaru-pim-kofa.png",
-    "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Wins": "4",
+    "Losses": "7",
+    "Ratio": "36",
     "PB_Time": "31.25s"
   },
   "hinako-kof": {
@@ -4691,10 +4691,10 @@
   },
   "Hisoka": {
     "Picture": "Hisoka.png",
-    "Wins": "9",
-    "Losses": "6",
-    "Ratio": "60",
-    "PB_Time": "21.63s"
+    "Wins": "12",
+    "Losses": "7",
+    "Ratio": "63",
+    "PB_Time": "20.9s"
   },
   "Hisui-melty": {
     "Picture": "Hisui-melty.png",
@@ -4705,23 +4705,23 @@
   },
   "Hitto": {
     "Picture": "Hitto.png",
-    "Wins": "26",
-    "Losses": "14",
-    "Ratio": "65",
+    "Wins": "30",
+    "Losses": "15",
+    "Ratio": "67",
     "PB_Time": "7.75s"
   },
   "Hit_TP": {
     "Picture": "Hit_TP.png",
-    "Wins": "11",
-    "Losses": "5",
-    "Ratio": "69",
+    "Wins": "13",
+    "Losses": "6",
+    "Ratio": "68",
     "PB_Time": "2.23s"
   },
   "hokutomaru-garou": {
     "Picture": "hokutomaru-garou.png",
     "Wins": "7",
-    "Losses": "4",
-    "Ratio": "64",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "26.33s"
   },
   "hokutomaru-kofa": {
@@ -4734,22 +4734,22 @@
   "hol-jojo": {
     "Picture": "hol-jojo.png",
     "Wins": "0",
-    "Losses": "5",
+    "Losses": "6",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "HolyKen": {
     "Picture": "HolyKen.png",
-    "Wins": "10",
-    "Losses": "4",
-    "Ratio": "71",
+    "Wins": "13",
+    "Losses": "5",
+    "Ratio": "72",
     "PB_Time": "17.62s"
   },
   "HolyRyu": {
     "Picture": "HolyRyu.png",
     "Wins": "10",
-    "Losses": "3",
-    "Ratio": "77",
+    "Losses": "4",
+    "Ratio": "71",
     "PB_Time": "20.38s"
   },
   "Homelander": {
@@ -4768,9 +4768,9 @@
   },
   "hon-fu-kofa": {
     "Picture": "hon-fu-kofa.png",
-    "Wins": "7",
-    "Losses": "4",
-    "Ratio": "64",
+    "Wins": "8",
+    "Losses": "5",
+    "Ratio": "62",
     "PB_Time": "25.65s"
   },
   "honda-kofa": {
@@ -4825,8 +4825,8 @@
   "hugo-SF": {
     "Picture": "hugo-SF.png",
     "Wins": "6",
-    "Losses": "8",
-    "Ratio": "43",
+    "Losses": "9",
+    "Ratio": "40",
     "PB_Time": "42.05s"
   },
   "hulk-mv": {
@@ -4846,15 +4846,15 @@
   "huriken-kofa": {
     "Picture": "huriken-kofa.png",
     "Wins": "5",
-    "Losses": "5",
-    "Ratio": "50",
+    "Losses": "6",
+    "Ratio": "45",
     "PB_Time": "91.98s"
   },
   "hwa-jai-kofa": {
     "Picture": "hwa-jai-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "42.12s"
   },
   "Hwa_Jai-kof": {
@@ -4866,10 +4866,10 @@
   },
   "hyakutaro-ichimonji-kofa": {
     "Picture": "hyakutaro-ichimonji-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
-    "PB_Time": "65.68s"
+    "Wins": "5",
+    "Losses": "6",
+    "Ratio": "45",
+    "PB_Time": "64.32s"
   },
   "hyo-korinagi-kofa": {
     "Picture": "hyo-korinagi-kofa.png",
@@ -4908,8 +4908,8 @@
   },
   "Iceman-MvC": {
     "Picture": "Iceman-MvC.png",
-    "Wins": "19",
-    "Losses": "8",
+    "Wins": "21",
+    "Losses": "9",
     "Ratio": "70",
     "PB_Time": "7.9s"
   },
@@ -4936,10 +4936,10 @@
   },
   "Ichigo_Vaste_Lord": {
     "Picture": "Ichigo_Vaste_Lord.png",
-    "Wins": "7",
-    "Losses": "7",
-    "Ratio": "50",
-    "PB_Time": "25.27s"
+    "Wins": "11",
+    "Losses": "8",
+    "Ratio": "58",
+    "PB_Time": "23.87s"
   },
   "igniz-kof": {
     "Picture": "igniz-kof.png",
@@ -4971,10 +4971,10 @@
   },
   "ikki-kofa": {
     "Picture": "ikki-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
-    "PB_Time": "86.75s"
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
+    "PB_Time": "42.55s"
   },
   "Illidan": {
     "Picture": "Illidan.png",
@@ -4985,9 +4985,9 @@
   },
   "incisive-kofa": {
     "Picture": "incisive-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "51.92s"
   },
   "InfinityBatman": {
@@ -5076,23 +5076,23 @@
   },
   "iori-yagami-kofa": {
     "Picture": "iori-yagami-kofa.png",
-    "Wins": "6",
-    "Losses": "3",
+    "Wins": "10",
+    "Losses": "5",
     "Ratio": "67",
-    "PB_Time": "18.58s"
+    "PB_Time": "17.07s"
   },
   "iori-yasakani-kofa": {
     "Picture": "iori-yasakani-kofa.png",
-    "Wins": "5",
-    "Losses": "5",
+    "Wins": "6",
+    "Losses": "6",
     "Ratio": "50",
     "PB_Time": "58.12s"
   },
   "ioro-kofa": {
     "Picture": "ioro-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Wins": "4",
+    "Losses": "6",
+    "Ratio": "40",
     "PB_Time": "30.9s"
   },
   "iris-kofa": {
@@ -5126,36 +5126,36 @@
   "IronMan-MvC": {
     "Picture": "IronMan-MvC.png",
     "Wins": "22",
-    "Losses": "9",
-    "Ratio": "71",
+    "Losses": "11",
+    "Ratio": "67",
     "PB_Time": "14.7s"
   },
   "isabeau-kofa": {
     "Picture": "isabeau-kofa.png",
     "Wins": "4",
-    "Losses": "2",
-    "Ratio": "67",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "38.02s"
   },
   "Ishida": {
     "Picture": "Ishida.png",
-    "Wins": "14",
-    "Losses": "7",
-    "Ratio": "67",
+    "Wins": "15",
+    "Losses": "9",
+    "Ratio": "63",
     "PB_Time": "18.25s"
   },
   "Itachi": {
     "Picture": "Itachi.png",
-    "Wins": "16",
-    "Losses": "9",
-    "Ratio": "64",
-    "PB_Time": "32.07s"
+    "Wins": "19",
+    "Losses": "10",
+    "Ratio": "66",
+    "PB_Time": "30.88s"
   },
   "ivan-kofa": {
     "Picture": "ivan-kofa.png",
-    "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Wins": "3",
+    "Losses": "6",
+    "Ratio": "33",
     "PB_Time": "24.57s"
   },
   "Ivankov-OP": {
@@ -5181,8 +5181,8 @@
   },
   "Izuku_Midoriya": {
     "Picture": "Izuku_Midoriya.png",
-    "Wins": "24",
-    "Losses": "12",
+    "Wins": "26",
+    "Losses": "13",
     "Ratio": "67",
     "PB_Time": "16.17s"
   },
@@ -5202,9 +5202,9 @@
   },
   "jack-hamma": {
     "Picture": "jack-hamma.png",
-    "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Wins": "9",
+    "Losses": "5",
+    "Ratio": "64",
     "PB_Time": "5.27s"
   },
   "jack-kofa": {
@@ -5245,8 +5245,8 @@
   "jae-hoon-kofa": {
     "Picture": "jae-hoon-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "81.07s"
   },
   "jae-hoon-motw-kofa": {
@@ -5258,9 +5258,9 @@
   },
   "jagaoh-jazu-kofa": {
     "Picture": "jagaoh-jazu-kofa.png",
-    "Wins": "7",
-    "Losses": "4",
-    "Ratio": "64",
+    "Wins": "8",
+    "Losses": "5",
+    "Ratio": "62",
     "PB_Time": "17s"
   },
   "jagi-kofa": {
@@ -5307,9 +5307,9 @@
   },
   "jedah-DS": {
     "Picture": "jedah-DS.png",
-    "Wins": "7",
-    "Losses": "7",
-    "Ratio": "50",
+    "Wins": "9",
+    "Losses": "8",
+    "Ratio": "53",
     "PB_Time": "25.05s"
   },
   "Jellal": {
@@ -5349,15 +5349,15 @@
   },
   "jimmy-lee-kofa": {
     "Picture": "jimmy-lee-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
+    "Wins": "4",
+    "Losses": "4",
     "Ratio": "50",
-    "PB_Time": "67.77s"
+    "PB_Time": "66.53s"
   },
   "jimmy-zappa-kofa": {
     "Picture": "jimmy-zappa-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
+    "Wins": "5",
+    "Losses": "5",
     "Ratio": "50",
     "PB_Time": "56.58s"
   },
@@ -5377,9 +5377,9 @@
   },
   "jin-kazama-kofa": {
     "Picture": "jin-kazama-kofa.png",
-    "Wins": "2",
-    "Losses": "8",
-    "Ratio": "20",
+    "Wins": "6",
+    "Losses": "9",
+    "Ratio": "40",
     "PB_Time": "57.97s"
   },
   "Jinbei": {
@@ -5419,9 +5419,9 @@
   },
   "joe-aodk-kofa": {
     "Picture": "joe-aodk-kofa.png",
-    "Wins": "9",
-    "Losses": "11",
-    "Ratio": "45",
+    "Wins": "10",
+    "Losses": "13",
+    "Ratio": "43",
     "PB_Time": "43.88s"
   },
   "joe-kofa": {
@@ -5433,8 +5433,8 @@
   },
   "joe-talley-kofa": {
     "Picture": "joe-talley-kofa.png",
-    "Wins": "4",
-    "Losses": "4",
+    "Wins": "5",
+    "Losses": "5",
     "Ratio": "50",
     "PB_Time": "52.32s"
   },
@@ -5462,8 +5462,8 @@
   "john-kofa": {
     "Picture": "john-kofa.png",
     "Wins": "4",
-    "Losses": "6",
-    "Ratio": "40",
+    "Losses": "7",
+    "Ratio": "36",
     "PB_Time": "47.82s"
   },
   "john-neogeo": {
@@ -5489,9 +5489,9 @@
   },
   "Johnny-jojo": {
     "Picture": "Johnny-jojo.png",
-    "Wins": "11",
-    "Losses": "10",
-    "Ratio": "52",
+    "Wins": "13",
+    "Losses": "11",
+    "Ratio": "54",
     "PB_Time": "17.78s"
   },
   "johntest-CHEAP": {
@@ -5510,10 +5510,10 @@
   },
   "jojo-jojo": {
     "Picture": "jojo-jojo.png",
-    "Wins": "0",
-    "Losses": "5",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "6",
+    "Ratio": "25",
+    "PB_Time": "86.07s"
   },
   "joker-kofa": {
     "Picture": "joker-kofa.png",
@@ -5574,7 +5574,7 @@
   "joseph2-jojo": {
     "Picture": "joseph2-jojo.png",
     "Wins": "0",
-    "Losses": "12",
+    "Losses": "13",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -5608,9 +5608,9 @@
   },
   "juarez-kofa": {
     "Picture": "juarez-kofa.png",
-    "Wins": "5",
-    "Losses": "8",
-    "Ratio": "38",
+    "Wins": "6",
+    "Losses": "9",
+    "Ratio": "40",
     "PB_Time": "47.07s"
   },
   "jubei-kofa": {
@@ -5665,15 +5665,15 @@
   "jun-lee-kofa": {
     "Picture": "jun-lee-kofa.png",
     "Wins": "0",
-    "Losses": "5",
+    "Losses": "6",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "juni-SF": {
     "Picture": "juni-SF.png",
     "Wins": "2",
-    "Losses": "8",
-    "Ratio": "20",
+    "Losses": "9",
+    "Ratio": "18",
     "PB_Time": "43.68s"
   },
   "junko-sendo-kofa": {
@@ -5727,10 +5727,10 @@
   },
   "juzoh-kofa": {
     "Picture": "juzoh-kofa.png",
-    "Wins": "0",
-    "Losses": "6",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "7",
+    "Ratio": "22",
+    "PB_Time": "68.78s"
   },
   "jyazu-kofa": {
     "Picture": "jyazu-kofa.png",
@@ -5756,8 +5756,8 @@
   "k'-kofa": {
     "Picture": "k'-kofa.png",
     "Wins": "6",
-    "Losses": "8",
-    "Ratio": "43",
+    "Losses": "9",
+    "Ratio": "40",
     "PB_Time": "32.6s"
   },
   "k-blood-kofa": {
@@ -5805,8 +5805,8 @@
   "kabuki-kofa": {
     "Picture": "kabuki-kofa.png",
     "Wins": "5",
-    "Losses": "5",
-    "Ratio": "50",
+    "Losses": "6",
+    "Ratio": "45",
     "PB_Time": "10.65s"
   },
   "kaede-kofa": {
@@ -5874,10 +5874,10 @@
   },
   "kai-harn-kofa": {
     "Picture": "kai-harn-kofa.png",
-    "Wins": "0",
-    "Losses": "3",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "4",
+    "Ratio": "20",
+    "PB_Time": "48.8s"
   },
   "kain-garou": {
     "Picture": "kain-garou.png",
@@ -5902,15 +5902,15 @@
   },
   "kairi-alt-kofa": {
     "Picture": "kairi-alt-kofa.png",
-    "Wins": "4",
-    "Losses": "4",
+    "Wins": "5",
+    "Losses": "5",
     "Ratio": "50",
     "PB_Time": "63.88s"
   },
   "kairi-kofa": {
     "Picture": "kairi-kofa.png",
     "Wins": "0",
-    "Losses": "1",
+    "Losses": "2",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -5937,24 +5937,24 @@
   },
   "Kale": {
     "Picture": "Kale.png",
-    "Wins": "19",
-    "Losses": "8",
-    "Ratio": "70",
+    "Wins": "20",
+    "Losses": "9",
+    "Ratio": "69",
     "PB_Time": "23.25s"
   },
   "Kalifa-OP": {
     "Picture": "Kalifa-OP.png",
-    "Wins": "8",
-    "Losses": "8",
-    "Ratio": "50",
+    "Wins": "11",
+    "Losses": "9",
+    "Ratio": "55",
     "PB_Time": "40.5s"
   },
   "kall-su-kofa": {
     "Picture": "kall-su-kofa.png",
-    "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
+    "PB_Time": "34.52s"
   },
   "kamek": {
     "Picture": "kamek.png",
@@ -5965,10 +5965,10 @@
   },
   "kane-kofa": {
     "Picture": "kane-kofa.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "3",
+    "Ratio": "40",
+    "PB_Time": "45.1s"
   },
   "Kaneki_v2": {
     "Picture": "Kaneki_v2.png",
@@ -5993,10 +5993,10 @@
   },
   "kang-neogeo": {
     "Picture": "kang-neogeo.png",
-    "Wins": "0",
-    "Losses": "2",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "3",
+    "Ratio": "25",
+    "PB_Time": "40.77s"
   },
   "Kanji-neogeo": {
     "Picture": "Kanji-neogeo.png",
@@ -6008,16 +6008,16 @@
   "Kaori-other": {
     "Picture": "Kaori-other.png",
     "Wins": "0",
-    "Losses": "3",
+    "Losses": "4",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "Kaoru-Hanayama": {
     "Picture": "Kaoru-Hanayama.png",
-    "Wins": "11",
-    "Losses": "5",
-    "Ratio": "69",
-    "PB_Time": "16.02s"
+    "Wins": "14",
+    "Losses": "6",
+    "Ratio": "70",
+    "PB_Time": "13.93s"
   },
   "kaoru-kofa": {
     "Picture": "kaoru-kofa.png",
@@ -6056,10 +6056,10 @@
   },
   "karin-kofa": {
     "Picture": "karin-kofa.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "2",
+    "Ratio": "50",
+    "PB_Time": "70.55s"
   },
   "karin-SF": {
     "Picture": "karin-SF.png",
@@ -6098,17 +6098,17 @@
   },
   "kasai-kofa": {
     "Picture": "kasai-kofa.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "3",
+    "Losses": "2",
+    "Ratio": "60",
+    "PB_Time": "37.77s"
   },
   "kash-kofa": {
     "Picture": "kash-kofa.png",
-    "Wins": "0",
-    "Losses": "2",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "3",
+    "Ratio": "25",
+    "PB_Time": "98.98s"
   },
   "kasim-kofa": {
     "Picture": "kasim-kofa.png",
@@ -6126,17 +6126,17 @@
   },
   "kasumi-kof": {
     "Picture": "kasumi-kof.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "3",
+    "Ratio": "57",
+    "PB_Time": "21.12s"
   },
   "kasumi-kofa": {
     "Picture": "kasumi-kofa.png",
-    "Wins": "0",
-    "Losses": "2",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "3",
+    "Ratio": "25",
+    "PB_Time": "72.27s"
   },
   "KasumiTodo": {
     "Picture": "KasumiTodo.png",
@@ -6162,8 +6162,8 @@
   "kay-kofa": {
     "Picture": "kay-kofa.png",
     "Wins": "4",
-    "Losses": "10",
-    "Ratio": "29",
+    "Losses": "11",
+    "Ratio": "27",
     "PB_Time": "19.42s"
   },
   "Kazuki": {
@@ -6176,8 +6176,8 @@
   "kazuki-kofa": {
     "Picture": "kazuki-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "53.12s"
   },
   "kazuki-samsho": {
@@ -6204,7 +6204,7 @@
   "keeper-of-k-kofa": {
     "Picture": "keeper-of-k-kofa.png",
     "Wins": "0",
-    "Losses": "2",
+    "Losses": "4",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -6218,30 +6218,30 @@
   "kei-kofa": {
     "Picture": "kei-kofa.png",
     "Wins": "10",
-    "Losses": "3",
-    "Ratio": "77",
+    "Losses": "4",
+    "Ratio": "71",
     "PB_Time": "19.65s"
   },
   "kei-other": {
     "Picture": "kei-other.png",
-    "Wins": "0",
-    "Losses": "8",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "10",
+    "Ratio": "9",
+    "PB_Time": "58.07s"
   },
   "keith-neogeo": {
     "Picture": "keith-neogeo.png",
     "Wins": "0",
-    "Losses": "7",
+    "Losses": "9",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "kelly-kofa": {
     "Picture": "kelly-kofa.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "2",
+    "Ratio": "50",
+    "PB_Time": "15.65s"
   },
   "ken-kofa": {
     "Picture": "ken-kofa.png",
@@ -6274,8 +6274,8 @@
   "kenshin-uesugi-kofa": {
     "Picture": "kenshin-uesugi-kofa.png",
     "Wins": "9",
-    "Losses": "4",
-    "Ratio": "69",
+    "Losses": "5",
+    "Ratio": "64",
     "PB_Time": "52.05s"
   },
   "Kenshiro": {
@@ -6287,23 +6287,23 @@
   },
   "kenshiro-kofa": {
     "Picture": "kenshiro-kofa.png",
-    "Wins": "5",
-    "Losses": "5",
+    "Wins": "6",
+    "Losses": "6",
     "Ratio": "50",
     "PB_Time": "20.43s"
   },
   "kensou-97-kofa": {
     "Picture": "kensou-97-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "43.07s"
   },
   "kensou-ex-kofa": {
     "Picture": "kensou-ex-kofa.png",
     "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
+    "Losses": "5",
+    "Ratio": "55",
     "PB_Time": "77.25s"
   },
   "kensou-kof": {
@@ -6322,10 +6322,10 @@
   },
   "kera-kofa": {
     "Picture": "kera-kofa.png",
-    "Wins": "0",
-    "Losses": "5",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "6",
+    "Ratio": "14",
+    "PB_Time": "27.5s"
   },
   "kevin-garou": {
     "Picture": "kevin-garou.png",
@@ -6337,8 +6337,8 @@
   "kevin-kofa": {
     "Picture": "kevin-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "N/A"
   },
   "kfm720": {
@@ -6400,15 +6400,15 @@
   "killer-bee-kofa": {
     "Picture": "killer-bee-kofa.png",
     "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Losses": "5",
+    "Ratio": "44",
     "PB_Time": "79.48s"
   },
   "Killer_Bee": {
     "Picture": "Killer_Bee.png",
-    "Wins": "13",
-    "Losses": "13",
-    "Ratio": "50",
+    "Wins": "16",
+    "Losses": "15",
+    "Ratio": "52",
     "PB_Time": "19.17s"
   },
   "Killua": {
@@ -6434,10 +6434,10 @@
   },
   "kim-pk-kofa": {
     "Picture": "kim-pk-kofa.png",
-    "Wins": "6",
-    "Losses": "6",
-    "Ratio": "50",
-    "PB_Time": "56.58s"
+    "Wins": "9",
+    "Losses": "8",
+    "Ratio": "53",
+    "PB_Time": "54.65s"
   },
   "kim-sue-il-kofa": {
     "Picture": "kim-sue-il-kofa.png",
@@ -6476,9 +6476,9 @@
   },
   "king-kofa": {
     "Picture": "king-kofa.png",
-    "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Wins": "5",
+    "Losses": "3",
+    "Ratio": "63",
     "PB_Time": "62.8s"
   },
   "king01-kof": {
@@ -6497,9 +6497,9 @@
   },
   "Kira-jojo": {
     "Picture": "Kira-jojo.png",
-    "Wins": "11",
-    "Losses": "10",
-    "Ratio": "52",
+    "Wins": "13",
+    "Losses": "11",
+    "Ratio": "54",
     "PB_Time": "21.28s"
   },
   "kira-sky-kofa": {
@@ -6512,7 +6512,7 @@
   "Kirby": {
     "Picture": "Kirby.png",
     "Wins": "0",
-    "Losses": "9",
+    "Losses": "10",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -6526,8 +6526,8 @@
   "kisarah-kofa": {
     "Picture": "kisarah-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "4",
+    "Ratio": "43",
     "PB_Time": "76.72s"
   },
   "Kizaru-OP": {
@@ -6602,16 +6602,16 @@
   },
   "Koro-Sensei": {
     "Picture": "Koro-Sensei.png",
-    "Wins": "14",
-    "Losses": "8",
-    "Ratio": "64",
+    "Wins": "17",
+    "Losses": "9",
+    "Ratio": "65",
     "PB_Time": "18.28s"
   },
   "kouryu-kofa": {
     "Picture": "kouryu-kofa.png",
-    "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Wins": "9",
+    "Losses": "4",
+    "Ratio": "69",
     "PB_Time": "5.27s"
   },
   "kouryu-lb": {
@@ -6623,9 +6623,9 @@
   },
   "Kraken-GOD": {
     "Picture": "Kraken-GOD.png",
-    "Wins": "23",
+    "Wins": "25",
     "Losses": "5",
-    "Ratio": "82",
+    "Ratio": "83",
     "PB_Time": "11.4s"
   },
   "krauser-kofa": {
@@ -6637,9 +6637,9 @@
   },
   "Krieg": {
     "Picture": "Krieg.png",
-    "Wins": "6",
-    "Losses": "3",
-    "Ratio": "67",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "39.78s"
   },
   "Krieg-OP": {
@@ -6658,9 +6658,9 @@
   },
   "kriz-kofa": {
     "Picture": "kriz-kofa.png",
-    "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Wins": "5",
+    "Losses": "5",
+    "Ratio": "50",
     "PB_Time": "69.33s"
   },
   "krizalid-1st-kofa": {
@@ -6707,8 +6707,8 @@
   },
   "kuando-kofa": {
     "Picture": "kuando-kofa.png",
-    "Wins": "4",
-    "Losses": "4",
+    "Wins": "5",
+    "Losses": "5",
     "Ratio": "50",
     "PB_Time": "73.8s"
   },
@@ -6721,9 +6721,9 @@
   },
   "kula-kofa": {
     "Picture": "kula-kofa.png",
-    "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Wins": "4",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "77.33s"
   },
   "Kula_akof-kof": {
@@ -6777,9 +6777,9 @@
   },
   "Kurapika": {
     "Picture": "Kurapika.png",
-    "Wins": "4",
-    "Losses": "4",
-    "Ratio": "50",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "42.83s"
   },
   "Kuro": {
@@ -6861,10 +6861,10 @@
   },
   "kyaga-kofa": {
     "Picture": "kyaga-kofa.png",
-    "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
-    "PB_Time": "14.42s"
+    "Wins": "6",
+    "Losses": "5",
+    "Ratio": "55",
+    "PB_Time": "2.55s"
   },
   "kyo-01-kofa": {
     "Picture": "kyo-01-kofa.png",
@@ -6876,8 +6876,8 @@
   "kyo-213-kofa": {
     "Picture": "kyo-213-kofa.png",
     "Wins": "14",
-    "Losses": "6",
-    "Ratio": "70",
+    "Losses": "7",
+    "Ratio": "67",
     "PB_Time": "14.02s"
   },
   "kyo-233-kofa": {
@@ -6918,29 +6918,29 @@
   "kyo-clone-4-kofa": {
     "Picture": "kyo-clone-4-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "N/A"
   },
   "kyo-cx-kofa": {
     "Picture": "kyo-cx-kofa.png",
     "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Losses": "3",
+    "Ratio": "40",
     "PB_Time": "49.65s"
   },
   "kyo-forgetten-kofa": {
     "Picture": "kyo-forgetten-kofa.png",
-    "Wins": "2",
-    "Losses": "2",
+    "Wins": "3",
+    "Losses": "3",
     "Ratio": "50",
     "PB_Time": "34.38s"
   },
   "kyo-kusanagi-kofa": {
     "Picture": "kyo-kusanagi-kofa.png",
-    "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Wins": "5",
+    "Losses": "3",
+    "Ratio": "63",
     "PB_Time": "38.07s"
   },
   "kyo-xiii-kofa": {
@@ -6980,8 +6980,8 @@
   },
   "kyokugenryu-kofa": {
     "Picture": "kyokugenryu-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
+    "Wins": "4",
+    "Losses": "4",
     "Ratio": "50",
     "PB_Time": "0.98s"
   },
@@ -7008,15 +7008,15 @@
   },
   "kyozalid-kofa": {
     "Picture": "kyozalid-kofa.png",
-    "Wins": "2",
-    "Losses": "2",
+    "Wins": "3",
+    "Losses": "3",
     "Ratio": "50",
     "PB_Time": "49.25s"
   },
   "k`-kof": {
     "Picture": "k`-kof.png",
-    "Wins": "5",
-    "Losses": "5",
+    "Wins": "6",
+    "Losses": "6",
     "Ratio": "50",
     "PB_Time": "25.83s"
   },
@@ -7030,8 +7030,8 @@
   "Lakitu-GOD": {
     "Picture": "Lakitu-GOD.png",
     "Wins": "15",
-    "Losses": "8",
-    "Ratio": "65",
+    "Losses": "9",
+    "Ratio": "63",
     "PB_Time": "16.22s"
   },
   "lamia-kofa": {
@@ -7050,9 +7050,9 @@
   },
   "lauren": {
     "Picture": "lauren.png",
-    "Wins": "24",
-    "Losses": "11",
-    "Ratio": "69",
+    "Wins": "25",
+    "Losses": "12",
+    "Ratio": "68",
     "PB_Time": "2.92s"
   },
   "lauren-kofa": {
@@ -7085,9 +7085,9 @@
   },
   "Laxus": {
     "Picture": "Laxus.png",
-    "Wins": "21",
-    "Losses": "9",
-    "Ratio": "70",
+    "Wins": "22",
+    "Losses": "11",
+    "Ratio": "67",
     "PB_Time": "12.5s"
   },
   "lee-kofa": {
@@ -7107,8 +7107,8 @@
   "lee-rekka-kofa": {
     "Picture": "lee-rekka-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "N/A"
   },
   "leela": {
@@ -7142,7 +7142,7 @@
   "lenny-kofa": {
     "Picture": "lenny-kofa.png",
     "Wins": "0",
-    "Losses": "3",
+    "Losses": "4",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -7169,23 +7169,23 @@
   },
   "leona-kofa": {
     "Picture": "leona-kofa.png",
-    "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
-    "PB_Time": "N/A"
+    "Wins": "3",
+    "Losses": "2",
+    "Ratio": "60",
+    "PB_Time": "94.82s"
   },
   "leonard-kofa": {
     "Picture": "leonard-kofa.png",
     "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Losses": "3",
+    "Ratio": "40",
     "PB_Time": "66.63s"
   },
   "Levi": {
     "Picture": "Levi.png",
     "Wins": "28",
-    "Losses": "12",
-    "Ratio": "70",
+    "Losses": "13",
+    "Ratio": "68",
     "PB_Time": "16.47s"
   },
   "Levy": {
@@ -7197,17 +7197,17 @@
   },
   "Lian-D-GOD": {
     "Picture": "Lian-D-GOD.png",
-    "Wins": "14",
-    "Losses": "4",
-    "Ratio": "78",
+    "Wins": "15",
+    "Losses": "6",
+    "Ratio": "71",
     "PB_Time": "15.77s"
   },
   "Lich_King": {
     "Picture": "Lich_King.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "2",
+    "Ratio": "33",
+    "PB_Time": "52.83s"
   },
   "Light_Yagami": {
     "Picture": "Light_Yagami.png",
@@ -7219,7 +7219,7 @@
   "lihua-other": {
     "Picture": "lihua-other.png",
     "Wins": "0",
-    "Losses": "9",
+    "Losses": "10",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -7261,8 +7261,8 @@
   "link-kofa": {
     "Picture": "link-kofa.png",
     "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Losses": "4",
+    "Ratio": "43",
     "PB_Time": "27.57s"
   },
   "link-other": {
@@ -7302,9 +7302,9 @@
   },
   "liukang": {
     "Picture": "liukang.png",
-    "Wins": "5",
-    "Losses": "8",
-    "Ratio": "38",
+    "Wins": "8",
+    "Losses": "9",
+    "Ratio": "47",
     "PB_Time": "34.95s"
   },
   "lixiang-kof": {
@@ -7316,10 +7316,10 @@
   },
   "LiXiangfei": {
     "Picture": "LiXiangfei.png",
-    "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
-    "PB_Time": "28.03s"
+    "Wins": "5",
+    "Losses": "2",
+    "Ratio": "71",
+    "PB_Time": "27.2s"
   },
   "loba-kofa": {
     "Picture": "loba-kofa.png",
@@ -7331,7 +7331,7 @@
   "Lobo-mv": {
     "Picture": "Lobo-mv.png",
     "Wins": "0",
-    "Losses": "10",
+    "Losses": "11",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -7358,16 +7358,16 @@
   },
   "Lou": {
     "Picture": "Lou.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "2",
+    "Ratio": "67",
+    "PB_Time": "14.72s"
   },
   "Lucci": {
     "Picture": "Lucci.png",
     "Wins": "11",
-    "Losses": "8",
-    "Ratio": "58",
+    "Losses": "9",
+    "Ratio": "55",
     "PB_Time": "33.72s"
   },
   "Lucci-OP": {
@@ -7408,14 +7408,14 @@
   "lucy-kofa": {
     "Picture": "lucy-kofa.png",
     "Wins": "0",
-    "Losses": "3",
+    "Losses": "4",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "Lucy_Diclonius": {
     "Picture": "Lucy_Diclonius.png",
-    "Wins": "4",
-    "Losses": "2",
+    "Wins": "6",
+    "Losses": "3",
     "Ratio": "67",
     "PB_Time": "12.55s"
   },
@@ -7442,9 +7442,9 @@
   },
   "Luffy_TS": {
     "Picture": "Luffy_TS.png",
-    "Wins": "18",
-    "Losses": "12",
-    "Ratio": "60",
+    "Wins": "20",
+    "Losses": "13",
+    "Ratio": "61",
     "PB_Time": "27.97s"
   },
   "luigi": {
@@ -7456,9 +7456,9 @@
   },
   "LuigiAI-GOD": {
     "Picture": "LuigiAI-GOD.png",
-    "Wins": "12",
-    "Losses": "5",
-    "Ratio": "71",
+    "Wins": "14",
+    "Losses": "6",
+    "Ratio": "70",
     "PB_Time": "23.12s"
   },
   "luise-kofa": {
@@ -7555,14 +7555,14 @@
   "magaki-kofa": {
     "Picture": "magaki-kofa.png",
     "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Losses": "3",
+    "Ratio": "40",
     "PB_Time": "60.67s"
   },
   "Magellan-OP": {
     "Picture": "Magellan-OP.png",
-    "Wins": "12",
-    "Losses": "11",
+    "Wins": "13",
+    "Losses": "12",
     "Ratio": "52",
     "PB_Time": "35.93s"
   },
@@ -7625,29 +7625,29 @@
   "malin-kofa": {
     "Picture": "malin-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "68.92s"
   },
   "manjimaru-kofa": {
     "Picture": "manjimaru-kofa.png",
-    "Wins": "4",
-    "Losses": "6",
-    "Ratio": "40",
-    "PB_Time": "40s"
+    "Wins": "6",
+    "Losses": "7",
+    "Ratio": "46",
+    "PB_Time": "13.23s"
   },
   "manjimaru-neogeo": {
     "Picture": "manjimaru-neogeo.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "30.27s"
   },
   "manto-kofa": {
     "Picture": "manto-kofa.png",
     "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
+    "Losses": "5",
+    "Ratio": "55",
     "PB_Time": "40.27s"
   },
   "manto-neogeo": {
@@ -7702,8 +7702,8 @@
   "Marco-OP": {
     "Picture": "Marco-OP.png",
     "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
+    "Losses": "5",
+    "Ratio": "55",
     "PB_Time": "31.8s"
   },
   "marco-rodriguez-kofa": {
@@ -7744,8 +7744,8 @@
   "marine-kofa": {
     "Picture": "marine-kofa.png",
     "Wins": "1",
-    "Losses": "14",
-    "Ratio": "7",
+    "Losses": "15",
+    "Ratio": "6",
     "PB_Time": "80.72s"
   },
   "mario-kofa": {
@@ -7884,15 +7884,15 @@
   "MAY_X-ggx": {
     "Picture": "MAY_X-ggx.png",
     "Wins": "1",
-    "Losses": "16",
+    "Losses": "17",
     "Ratio": "6",
     "PB_Time": "98.97s"
   },
   "mbison-kofa": {
     "Picture": "mbison-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "N/A"
   },
   "MBison-MvC": {
@@ -7912,22 +7912,22 @@
   "mec-element-kofa": {
     "Picture": "mec-element-kofa.png",
     "Wins": "4",
-    "Losses": "2",
-    "Ratio": "67",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "48.53s"
   },
   "mech-iori-kofa": {
     "Picture": "mech-iori-kofa.png",
     "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
+    "Losses": "5",
+    "Ratio": "17",
     "PB_Time": "31.68s"
   },
   "mech-ralf-kofa": {
     "Picture": "mech-ralf-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
     "PB_Time": "26.42s"
   },
   "Mech_Sagat": {
@@ -7954,8 +7954,8 @@
   "Megaman-MvC": {
     "Picture": "Megaman-MvC.png",
     "Wins": "10",
-    "Losses": "5",
-    "Ratio": "67",
+    "Losses": "6",
+    "Ratio": "63",
     "PB_Time": "13.2s"
   },
   "megaman-x-kofa": {
@@ -7968,7 +7968,7 @@
   "megamanxa-capcom": {
     "Picture": "megamanxa-capcom.png",
     "Wins": "1",
-    "Losses": "15",
+    "Losses": "16",
     "Ratio": "6",
     "PB_Time": "98.98s"
   },
@@ -7981,37 +7981,37 @@
   },
   "meiling-kofa": {
     "Picture": "meiling-kofa.png",
-    "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
-    "PB_Time": "86.1s"
+    "Wins": "3",
+    "Losses": "5",
+    "Ratio": "38",
+    "PB_Time": "64.17s"
   },
   "meld-kofa": {
     "Picture": "meld-kofa.png",
     "Wins": "2",
-    "Losses": "2",
-    "Ratio": "50",
+    "Losses": "3",
+    "Ratio": "40",
     "PB_Time": "49.2s"
   },
   "Meliodas": {
     "Picture": "Meliodas.png",
-    "Wins": "10",
-    "Losses": "10",
-    "Ratio": "50",
+    "Wins": "14",
+    "Losses": "11",
+    "Ratio": "56",
     "PB_Time": "20.38s"
   },
   "Meliodas_Edit": {
     "Picture": "Meliodas_Edit.png",
-    "Wins": "14",
-    "Losses": "13",
+    "Wins": "15",
+    "Losses": "14",
     "Ratio": "52",
     "PB_Time": "31.62s"
   },
   "Meruem": {
     "Picture": "Meruem.png",
     "Wins": "10",
-    "Losses": "10",
-    "Ratio": "50",
+    "Losses": "11",
+    "Ratio": "48",
     "PB_Time": "29.03s"
   },
   "MetaKnight": {
@@ -8045,8 +8045,8 @@
   "michael-max-kofa": {
     "Picture": "michael-max-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "46.43s"
   },
   "mika-kofa": {
@@ -8143,8 +8143,8 @@
   "mizoguchi-kofa": {
     "Picture": "mizoguchi-kofa.png",
     "Wins": "1",
-    "Losses": "2",
-    "Ratio": "33",
+    "Losses": "3",
+    "Ratio": "25",
     "PB_Time": "98.98s"
   },
   "mizore-kofa": {
@@ -8164,8 +8164,8 @@
   "Mizuchi-kof": {
     "Picture": "Mizuchi-kof.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "73.12s"
   },
   "mizuchi-kofa": {
@@ -8184,10 +8184,10 @@
   },
   "mk-kofa": {
     "Picture": "mk-kofa.png",
-    "Wins": "1",
-    "Losses": "2",
-    "Ratio": "33",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "3",
+    "Ratio": "40",
+    "PB_Time": "79.22s"
   },
   "mkvssfchameleon": {
     "Picture": "mkvssfchameleon.png",
@@ -8212,10 +8212,10 @@
   },
   "Mob": {
     "Picture": "Mob.png",
-    "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
-    "PB_Time": "81.13s"
+    "Wins": "7",
+    "Losses": "7",
+    "Ratio": "50",
+    "PB_Time": "73.38s"
   },
   "moe-kof": {
     "Picture": "moe-kof.png",
@@ -8262,8 +8262,8 @@
   "moriya-kofa": {
     "Picture": "moriya-kofa.png",
     "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Losses": "4",
+    "Ratio": "43",
     "PB_Time": "41.28s"
   },
   "moriya-lb": {
@@ -8275,9 +8275,9 @@
   },
   "morrigan_mvc-DS": {
     "Picture": "morrigan_mvc-DS.png",
-    "Wins": "16",
-    "Losses": "7",
-    "Ratio": "70",
+    "Wins": "17",
+    "Losses": "8",
+    "Ratio": "68",
     "PB_Time": "12.13s"
   },
   "MortalKombat1_GORO": {
@@ -8318,8 +8318,8 @@
   "mr-karate-svc-kofa": {
     "Picture": "mr-karate-svc-kofa.png",
     "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Losses": "7",
+    "Ratio": "30",
     "PB_Time": "38.22s"
   },
   "mr-r-kofa": {
@@ -8394,9 +8394,9 @@
   },
   "musashi-kofa": {
     "Picture": "musashi-kofa.png",
-    "Wins": "3",
-    "Losses": "5",
-    "Ratio": "38",
+    "Wins": "5",
+    "Losses": "6",
+    "Ratio": "45",
     "PB_Time": "40.65s"
   },
   "musashi-lb": {
@@ -8423,8 +8423,8 @@
   "nagi-kofa": {
     "Picture": "nagi-kofa.png",
     "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "99s"
   },
   "nakoruru-kofa": {
@@ -8458,8 +8458,8 @@
   "Nami-OP": {
     "Picture": "Nami-OP.png",
     "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "29.47s"
   },
   "Nami_JUS": {
@@ -8507,8 +8507,8 @@
   "naruto_kun": {
     "Picture": "naruto_kun.png",
     "Wins": "5",
-    "Losses": "2",
-    "Ratio": "71",
+    "Losses": "3",
+    "Ratio": "63",
     "PB_Time": "38.02s"
   },
   "Naruto_Sennin_JUS": {
@@ -8527,9 +8527,9 @@
   },
   "Natsu_Start": {
     "Picture": "Natsu_Start.png",
-    "Wins": "12",
-    "Losses": "11",
-    "Ratio": "52",
+    "Wins": "15",
+    "Losses": "12",
+    "Ratio": "56",
     "PB_Time": "31s"
   },
   "nausicaa": {
@@ -8633,7 +8633,7 @@
   "neoremi-other": {
     "Picture": "neoremi-other.png",
     "Wins": "0",
-    "Losses": "10",
+    "Losses": "11",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -8660,9 +8660,9 @@
   },
   "New_Final_Rugal-GOD": {
     "Picture": "New_Final_Rugal-GOD.png",
-    "Wins": "27",
+    "Wins": "29",
     "Losses": "5",
-    "Ratio": "84",
+    "Ratio": "85",
     "PB_Time": "10.57s"
   },
   "ngbc_ai-neogeo": {
@@ -8689,8 +8689,8 @@
   "nicotine-samsho": {
     "Picture": "nicotine-samsho.png",
     "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Losses": "7",
+    "Ratio": "42",
     "PB_Time": "80.52s"
   },
   "night-gaunt-kofa": {
@@ -8710,8 +8710,8 @@
   "nightmare-geese-kofa": {
     "Picture": "nightmare-geese-kofa.png",
     "Wins": "11",
-    "Losses": "10",
-    "Ratio": "52",
+    "Losses": "11",
+    "Ratio": "50",
     "PB_Time": "32.88s"
   },
   "nightmare-iori-kofa": {
@@ -8723,23 +8723,23 @@
   },
   "Nightmare_Broly-GOD": {
     "Picture": "Nightmare_Broly-GOD.png",
-    "Wins": "25",
+    "Wins": "27",
     "Losses": "7",
-    "Ratio": "78",
+    "Ratio": "79",
     "PB_Time": "2.78s"
   },
   "Nightwolf": {
     "Picture": "Nightwolf.png",
     "Wins": "13",
-    "Losses": "12",
-    "Ratio": "52",
+    "Losses": "13",
+    "Ratio": "50",
     "PB_Time": "16.9s"
   },
   "Nimue-GOD": {
     "Picture": "Nimue-GOD.png",
-    "Wins": "23",
+    "Wins": "25",
     "Losses": "5",
-    "Ratio": "82",
+    "Ratio": "83",
     "PB_Time": "-0.95s"
   },
   "nise-k'-kofa": {
@@ -8765,9 +8765,9 @@
   },
   "Noel_Vermillion": {
     "Picture": "Noel_Vermillion.png",
-    "Wins": "2",
-    "Losses": "1",
-    "Ratio": "67",
+    "Wins": "3",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "44.37s"
   },
   "norimaro-capcom": {
@@ -8800,9 +8800,9 @@
   },
   "Obito": {
     "Picture": "Obito.png",
-    "Wins": "24",
-    "Losses": "9",
-    "Ratio": "73",
+    "Wins": "26",
+    "Losses": "10",
+    "Ratio": "72",
     "PB_Time": "12.9s"
   },
   "ochamaro-kofa": {
@@ -8829,8 +8829,8 @@
   "Okina-lb": {
     "Picture": "Okina-lb.png",
     "Wins": "9",
-    "Losses": "5",
-    "Ratio": "64",
+    "Losses": "6",
+    "Ratio": "60",
     "PB_Time": "18.77s"
   },
   "OLOF-neogeo": {
@@ -8863,9 +8863,9 @@
   },
   "omega-ryu-kofa": {
     "Picture": "omega-ryu-kofa.png",
-    "Wins": "7",
-    "Losses": "5",
-    "Ratio": "58",
+    "Wins": "10",
+    "Losses": "6",
+    "Ratio": "63",
     "PB_Time": "17.52s"
   },
   "omega-shingo-kofa": {
@@ -8878,8 +8878,8 @@
   "Omega_Red-MvC": {
     "Picture": "Omega_Red-MvC.png",
     "Wins": "17",
-    "Losses": "5",
-    "Ratio": "77",
+    "Losses": "6",
+    "Ratio": "74",
     "PB_Time": "12.67s"
   },
   "Omniman": {
@@ -8919,8 +8919,8 @@
   },
   "ORCHID": {
     "Picture": "ORCHID.png",
-    "Wins": "12",
-    "Losses": "11",
+    "Wins": "13",
+    "Losses": "12",
     "Ratio": "52",
     "PB_Time": "13.25s"
   },
@@ -8985,7 +8985,7 @@
     "Wins": "9",
     "Losses": "4",
     "Ratio": "69",
-    "PB_Time": "3    s"
+    "PB_Time": "3    s"
   },
   "orochi-kofa": {
     "Picture": "orochi-kofa.png",
@@ -9074,8 +9074,8 @@
   "oswald-kofa": {
     "Picture": "oswald-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "98.93s"
   },
   "other-candy-kofa": {
@@ -9116,8 +9116,8 @@
   "pepe-neogeo": {
     "Picture": "pepe-neogeo.png",
     "Wins": "5",
-    "Losses": "10",
-    "Ratio": "33",
+    "Losses": "11",
+    "Ratio": "31",
     "PB_Time": "18.67s"
   },
   "pepsiman": {
@@ -9150,17 +9150,17 @@
   },
   "Piccolo": {
     "Picture": "Piccolo.png",
-    "Wins": "14",
-    "Losses": "10",
-    "Ratio": "58",
+    "Wins": "16",
+    "Losses": "11",
+    "Ratio": "59",
     "PB_Time": "23.65s"
   },
   "pickle": {
     "Picture": "pickle.png",
-    "Wins": "7",
-    "Losses": "4",
+    "Wins": "9",
+    "Losses": "5",
     "Ratio": "64",
-    "PB_Time": "13.6s"
+    "PB_Time": "11.42s"
   },
   "pingu-other": {
     "Picture": "pingu-other.png",
@@ -9172,8 +9172,8 @@
   "pioneer-kofa": {
     "Picture": "pioneer-kofa.png",
     "Wins": "10",
-    "Losses": "3",
-    "Ratio": "77",
+    "Losses": "4",
+    "Ratio": "71",
     "PB_Time": "10.62s"
   },
   "Pitou": {
@@ -9186,8 +9186,8 @@
   "poison-kofa": {
     "Picture": "poison-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "49.57s"
   },
   "politankz-neogeo": {
@@ -9242,8 +9242,8 @@
   "princess-athena-kofa": {
     "Picture": "princess-athena-kofa.png",
     "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
+    "Losses": "5",
+    "Ratio": "17",
     "PB_Time": "98.97s"
   },
   "PrincessPeach": {
@@ -9311,9 +9311,9 @@
   },
   "q-SF": {
     "Picture": "q-SF.png",
-    "Wins": "4",
-    "Losses": "10",
-    "Ratio": "29",
+    "Wins": "5",
+    "Losses": "11",
+    "Ratio": "31",
     "PB_Time": "24.65s"
   },
   "quartz-kofa": {
@@ -9325,15 +9325,15 @@
   },
   "radel-kofa": {
     "Picture": "radel-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "4",
+    "Losses": "6",
+    "Ratio": "40",
     "PB_Time": "38.83s"
   },
   "radel-neogeo": {
     "Picture": "radel-neogeo.png",
-    "Wins": "9",
-    "Losses": "9",
+    "Wins": "10",
+    "Losses": "10",
     "Ratio": "50",
     "PB_Time": "26.05s"
   },
@@ -9354,14 +9354,14 @@
   "rai-kofa": {
     "Picture": "rai-kofa.png",
     "Wins": "5",
-    "Losses": "5",
-    "Ratio": "50",
+    "Losses": "6",
+    "Ratio": "45",
     "PB_Time": "36.42s"
   },
   "Rai-neogeo": {
     "Picture": "Rai-neogeo.png",
     "Wins": "0",
-    "Losses": "10",
+    "Losses": "11",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -9410,8 +9410,8 @@
   "ralf-kof": {
     "Picture": "ralf-kof.png",
     "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Losses": "6",
+    "Ratio": "25",
     "PB_Time": "11.73s"
   },
   "ralf-kofa": {
@@ -9437,9 +9437,9 @@
   },
   "raoh-kofa": {
     "Picture": "raoh-kofa.png",
-    "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Wins": "5",
+    "Losses": "4",
+    "Ratio": "56",
     "PB_Time": "63.02s"
   },
   "raphael-kofa": {
@@ -9451,9 +9451,9 @@
   },
   "Rare_Akuma-GOD": {
     "Picture": "Rare_Akuma-GOD.png",
-    "Wins": "29",
+    "Wins": "31",
     "Losses": "5",
-    "Ratio": "85",
+    "Ratio": "86",
     "PB_Time": "0.68s"
   },
   "rasetsumaru-kofa": {
@@ -9542,10 +9542,10 @@
   },
   "reiji-neogeo": {
     "Picture": "reiji-neogeo.png",
-    "Wins": "1",
-    "Losses": "16",
-    "Ratio": "6",
-    "PB_Time": "60.13s"
+    "Wins": "2",
+    "Losses": "17",
+    "Ratio": "11",
+    "PB_Time": "56.13s"
   },
   "Reika-other": {
     "Picture": "Reika-other.png",
@@ -9591,9 +9591,9 @@
   },
   "rera-samsho": {
     "Picture": "rera-samsho.png",
-    "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Wins": "6",
+    "Losses": "7",
+    "Ratio": "46",
     "PB_Time": "23.9s"
   },
   "retsu-kofa": {
@@ -9613,8 +9613,8 @@
   "Ribrianne2018": {
     "Picture": "Ribrianne2018.png",
     "Wins": "9",
-    "Losses": "5",
-    "Ratio": "64",
+    "Losses": "6",
+    "Ratio": "60",
     "PB_Time": "26.73s"
   },
   "richard-myer-kofa": {
@@ -9669,15 +9669,15 @@
   "rimururu-kofa": {
     "Picture": "rimururu-kofa.png",
     "Wins": "6",
-    "Losses": "6",
-    "Ratio": "50",
+    "Losses": "7",
+    "Ratio": "46",
     "PB_Time": "21.97s"
   },
   "rimururuss5-samsho": {
     "Picture": "rimururuss5-samsho.png",
     "Wins": "4",
-    "Losses": "10",
-    "Ratio": "29",
+    "Losses": "11",
+    "Ratio": "27",
     "PB_Time": "36.85s"
   },
   "rin-kagamine-kofa": {
@@ -9690,8 +9690,8 @@
   "rin-oyama-kofa": {
     "Picture": "rin-oyama-kofa.png",
     "Wins": "3",
-    "Losses": "3",
-    "Ratio": "50",
+    "Losses": "4",
+    "Ratio": "43",
     "PB_Time": "66.02s"
   },
   "rinne-kofa": {
@@ -9759,8 +9759,8 @@
   },
   "Robin-OP": {
     "Picture": "Robin-OP.png",
-    "Wins": "9",
-    "Losses": "9",
+    "Wins": "10",
+    "Losses": "10",
     "Ratio": "50",
     "PB_Time": "42.43s"
   },
@@ -9774,15 +9774,15 @@
   "ROBO_KY-ggx": {
     "Picture": "ROBO_KY-ggx.png",
     "Wins": "0",
-    "Losses": "3",
+    "Losses": "4",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "rock-kofa": {
     "Picture": "rock-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "98.95s"
   },
   "rockula-kofa": {
@@ -9809,8 +9809,8 @@
   "rody-kofa": {
     "Picture": "rody-kofa.png",
     "Wins": "3",
-    "Losses": "6",
-    "Ratio": "33",
+    "Losses": "7",
+    "Ratio": "30",
     "PB_Time": "98.95s"
   },
   "Rogue-MvC": {
@@ -9857,9 +9857,9 @@
   },
   "roll_mvc-capcom": {
     "Picture": "roll_mvc-capcom.png",
-    "Wins": "9",
-    "Losses": "11",
-    "Ratio": "45",
+    "Wins": "13",
+    "Losses": "12",
+    "Ratio": "52",
     "PB_Time": "26.62s"
   },
   "ron-kofa": {
@@ -9871,17 +9871,17 @@
   },
   "roomi-kofa": {
     "Picture": "roomi-kofa.png",
-    "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
+    "Wins": "6",
+    "Losses": "6",
+    "Ratio": "50",
     "PB_Time": "41.77s"
   },
   "roper-kofa": {
     "Picture": "roper-kofa.png",
-    "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
-    "PB_Time": "57.28s"
+    "Wins": "5",
+    "Losses": "6",
+    "Ratio": "45",
+    "PB_Time": "33.83s"
   },
   "rosa-kofa": {
     "Picture": "rosa-kofa.png",
@@ -10047,8 +10047,8 @@
   "ryunmei-kofa": {
     "Picture": "ryunmei-kofa.png",
     "Wins": "2",
-    "Losses": "4",
-    "Ratio": "33",
+    "Losses": "5",
+    "Ratio": "29",
     "PB_Time": "41.28s"
   },
   "Ryuyoung": {
@@ -10103,22 +10103,22 @@
   "sabretooth-mv": {
     "Picture": "sabretooth-mv.png",
     "Wins": "5",
-    "Losses": "12",
-    "Ratio": "29",
+    "Losses": "13",
+    "Ratio": "28",
     "PB_Time": "49.02s"
   },
   "Sabrewulf_KI2": {
     "Picture": "Sabrewulf_KI2.png",
-    "Wins": "1",
-    "Losses": "10",
-    "Ratio": "9",
+    "Wins": "2",
+    "Losses": "11",
+    "Ratio": "15",
     "PB_Time": "46.68s"
   },
   "sachiel-kofa": {
     "Picture": "sachiel-kofa.png",
-    "Wins": "20",
-    "Losses": "6",
-    "Ratio": "77",
+    "Wins": "22",
+    "Losses": "7",
+    "Ratio": "76",
     "PB_Time": "6.88s"
   },
   "sacola-man-kofa": {
@@ -10137,23 +10137,23 @@
   },
   "Sado": {
     "Picture": "Sado.png",
-    "Wins": "9",
-    "Losses": "6",
-    "Ratio": "60",
+    "Wins": "10",
+    "Losses": "7",
+    "Ratio": "59",
     "PB_Time": "16.57s"
   },
   "Saga": {
     "Picture": "Saga.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "6",
+    "Losses": "5",
+    "Ratio": "55",
     "PB_Time": "31.45s"
   },
   "saga-kofa": {
     "Picture": "saga-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "6",
+    "Ratio": "33",
     "PB_Time": "60.15s"
   },
   "sagat-kofa": {
@@ -10207,10 +10207,10 @@
   },
   "sailor-moon-kofa": {
     "Picture": "sailor-moon-kofa.png",
-    "Wins": "0",
-    "Losses": "3",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "2",
+    "Losses": "4",
+    "Ratio": "33",
+    "PB_Time": "68.08s"
   },
   "Sailor_Mars": {
     "Picture": "Sailor_Mars.png",
@@ -10221,17 +10221,17 @@
   },
   "saint-kyo-kofa": {
     "Picture": "saint-kyo-kofa.png",
-    "Wins": "1",
-    "Losses": "2",
-    "Ratio": "33",
+    "Wins": "3",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "52.18s"
   },
   "saisyu-kof": {
     "Picture": "saisyu-kof.png",
-    "Wins": "0",
-    "Losses": "4",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "5",
+    "Ratio": "17",
+    "PB_Time": "57.48s"
   },
   "Saitama": {
     "Picture": "Saitama.png",
@@ -10299,16 +10299,16 @@
   "samus-kofa": {
     "Picture": "samus-kofa.png",
     "Wins": "0",
-    "Losses": "2",
+    "Losses": "3",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "sandman": {
     "Picture": "sandman.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "6",
+    "Losses": "3",
+    "Ratio": "67",
+    "PB_Time": "19.53s"
   },
   "sandy-kofa": {
     "Picture": "sandy-kofa.png",
@@ -10334,16 +10334,16 @@
   "Sanji_JUS": {
     "Picture": "Sanji_JUS.png",
     "Wins": "12",
-    "Losses": "8",
-    "Ratio": "60",
+    "Losses": "9",
+    "Ratio": "57",
     "PB_Time": "46.43s"
   },
   "sankuro-kofa": {
     "Picture": "sankuro-kofa.png",
-    "Wins": "0",
-    "Losses": "4",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "5",
+    "Ratio": "17",
+    "PB_Time": "8.43s"
   },
   "sankuro-samsho": {
     "Picture": "sankuro-samsho.png",
@@ -10410,17 +10410,17 @@
   },
   "Satsuki-melty": {
     "Picture": "Satsuki-melty.png",
-    "Wins": "28",
-    "Losses": "16",
-    "Ratio": "64",
+    "Wins": "30",
+    "Losses": "18",
+    "Ratio": "63",
     "PB_Time": "7.75s"
   },
   "sayia-kofa": {
     "Picture": "sayia-kofa.png",
-    "Wins": "2",
-    "Losses": "5",
-    "Ratio": "29",
-    "PB_Time": "98.93s"
+    "Wins": "5",
+    "Losses": "7",
+    "Ratio": "42",
+    "PB_Time": "32.58s"
   },
   "scarlet-kofa": {
     "Picture": "scarlet-kofa.png",
@@ -10628,8 +10628,8 @@
   "sheng-long-kofa": {
     "Picture": "sheng-long-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "54.82s"
   },
   "shenwoo-kofa": {
@@ -10704,10 +10704,10 @@
   },
   "shiki-kofa": {
     "Picture": "shiki-kofa.png",
-    "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
-    "PB_Time": "98.92s"
+    "Wins": "2",
+    "Losses": "5",
+    "Ratio": "29",
+    "PB_Time": "98.88s"
   },
   "shikyoh-kofa": {
     "Picture": "shikyoh-kofa.png",
@@ -10726,15 +10726,15 @@
   "shin-akuma-kofa": {
     "Picture": "shin-akuma-kofa.png",
     "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
-    "PB_Time": "99.99s"
+    "Losses": "4",
+    "Ratio": "50",
+    "PB_Time": "99.99ss"
   },
   "shin-go-hibiki-kofa": {
     "Picture": "shin-go-hibiki-kofa.png",
-    "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Wins": "6",
+    "Losses": "7",
+    "Ratio": "46",
     "PB_Time": "61.43s"
   },
   "shin-kofa": {
@@ -10858,9 +10858,9 @@
   },
   "shishioh-kofa": {
     "Picture": "shishioh-kofa.png",
-    "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Wins": "5",
+    "Losses": "5",
+    "Ratio": "50",
     "PB_Time": "64.98s"
   },
   "shishioh2-neogeo": {
@@ -10886,9 +10886,9 @@
   },
   "SHIZUMARU-samsho": {
     "Picture": "SHIZUMARU-samsho.png",
-    "Wins": "11",
-    "Losses": "10",
-    "Ratio": "52",
+    "Wins": "12",
+    "Losses": "12",
+    "Ratio": "50",
     "PB_Time": "26.03s"
   },
   "sho-neogeo": {
@@ -10922,8 +10922,8 @@
   "shun-ei-kofa": {
     "Picture": "shun-ei-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "58.55s"
   },
   "shun-kofa": {
@@ -10943,8 +10943,8 @@
   "sieger-kofa": {
     "Picture": "sieger-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "4",
+    "Ratio": "43",
     "PB_Time": "47.6s"
   },
   "Sieger-samsho": {
@@ -10957,8 +10957,8 @@
   "silent-storm-kofa": {
     "Picture": "silent-storm-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "6",
+    "Ratio": "33",
     "PB_Time": "21.83s"
   },
   "silver-kofa": {
@@ -10991,24 +10991,24 @@
   },
   "sinclair-kofa": {
     "Picture": "sinclair-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
-    "PB_Time": "86.45s"
+    "Wins": "4",
+    "Losses": "5",
+    "Ratio": "44",
+    "PB_Time": "71.73s"
   },
   "sinobu-kofa": {
     "Picture": "sinobu-kofa.png",
-    "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "22.1s"
   },
   "sion_a-melty": {
     "Picture": "sion_a-melty.png",
-    "Wins": "3",
-    "Losses": "12",
-    "Ratio": "20",
-    "PB_Time": "63.03s"
+    "Wins": "4",
+    "Losses": "13",
+    "Ratio": "24",
+    "PB_Time": "56.05s"
   },
   "sion_t-melty": {
     "Picture": "sion_t-melty.png",
@@ -11054,10 +11054,10 @@
   },
   "skrull-kofa": {
     "Picture": "skrull-kofa.png",
-    "Wins": "2",
-    "Losses": "8",
-    "Ratio": "20",
-    "PB_Time": "40.8s"
+    "Wins": "3",
+    "Losses": "9",
+    "Ratio": "25",
+    "PB_Time": "36.1s"
   },
   "skullomania-kofa": {
     "Picture": "skullomania-kofa.png",
@@ -11173,9 +11173,9 @@
   },
   "SM_Kenshin": {
     "Picture": "SM_Kenshin.png",
-    "Wins": "19",
-    "Losses": "14",
-    "Ratio": "58",
+    "Wins": "20",
+    "Losses": "16",
+    "Ratio": "56",
     "PB_Time": "12.2s"
   },
   "SM_Kenshiro": {
@@ -11201,9 +11201,9 @@
   },
   "SM_Luffy_TS": {
     "Picture": "SM_Luffy_TS.png",
-    "Wins": "18",
-    "Losses": "9",
-    "Ratio": "67",
+    "Wins": "19",
+    "Losses": "10",
+    "Ratio": "66",
     "PB_Time": "22.85s"
   },
   "SM_Luffy_TS-OP": {
@@ -11243,9 +11243,9 @@
   },
   "SM_Sanji_TS-OP": {
     "Picture": "SM_Sanji_TS-OP.png",
-    "Wins": "8",
-    "Losses": "6",
-    "Ratio": "57",
+    "Wins": "9",
+    "Losses": "7",
+    "Ratio": "56",
     "PB_Time": "32.08s"
   },
   "SM_Seiya": {
@@ -11257,9 +11257,9 @@
   },
   "SM_Shiryu": {
     "Picture": "SM_Shiryu.png",
-    "Wins": "13",
-    "Losses": "10",
-    "Ratio": "57",
+    "Wins": "15",
+    "Losses": "11",
+    "Ratio": "58",
     "PB_Time": "23.87s"
   },
   "SM_Shun": {
@@ -11279,8 +11279,8 @@
   "snchaos-melty": {
     "Picture": "snchaos-melty.png",
     "Wins": "2",
-    "Losses": "8",
-    "Ratio": "20",
+    "Losses": "9",
+    "Ratio": "18",
     "PB_Time": "61.57s"
   },
   "snow-knight-kofa": {
@@ -11292,8 +11292,8 @@
   },
   "sodom-SF": {
     "Picture": "sodom-SF.png",
-    "Wins": "4",
-    "Losses": "2",
+    "Wins": "8",
+    "Losses": "4",
     "Ratio": "67",
     "PB_Time": "23.83s"
   },
@@ -11321,8 +11321,8 @@
   "sokaku-garou": {
     "Picture": "sokaku-garou.png",
     "Wins": "2",
-    "Losses": "8",
-    "Ratio": "20",
+    "Losses": "9",
+    "Ratio": "18",
     "PB_Time": "67.75s"
   },
   "sokaku-kofa": {
@@ -11363,8 +11363,8 @@
   "sonic-machine-kofa": {
     "Picture": "sonic-machine-kofa.png",
     "Wins": "4",
-    "Losses": "2",
-    "Ratio": "67",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "36.97s"
   },
   "SonicV2": {
@@ -11377,15 +11377,15 @@
   "sonson-capcom": {
     "Picture": "sonson-capcom.png",
     "Wins": "16",
-    "Losses": "15",
-    "Ratio": "52",
+    "Losses": "16",
+    "Ratio": "50",
     "PB_Time": "13.45s"
   },
   "Sonson-MvC": {
     "Picture": "Sonson-MvC.png",
-    "Wins": "20",
-    "Losses": "11",
-    "Ratio": "65",
+    "Wins": "21",
+    "Losses": "12",
+    "Ratio": "64",
     "PB_Time": "9.17s"
   },
   "soria-kofa": {
@@ -11397,23 +11397,23 @@
   },
   "souji-kusanagi-kofa": {
     "Picture": "souji-kusanagi-kofa.png",
-    "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
-    "PB_Time": "74.43s"
+    "Wins": "4",
+    "Losses": "3",
+    "Ratio": "57",
+    "PB_Time": "72.87s"
   },
   "Soul_Donald-GOD": {
     "Picture": "Soul_Donald-GOD.png",
-    "Wins": "26",
+    "Wins": "28",
     "Losses": "1",
-    "Ratio": "96",
-    "PB_Time": "1.88s"
+    "Ratio": "97",
+    "PB_Time": "0.72s"
   },
   "Soul_Donald2-GOD": {
     "Picture": "Soul_Donald2-GOD.png",
-    "Wins": "12",
-    "Losses": "6",
-    "Ratio": "67",
+    "Wins": "18",
+    "Losses": "7",
+    "Ratio": "72",
     "PB_Time": "1.73s"
   },
   "souther-kofa": {
@@ -11454,7 +11454,7 @@
   "spinal_KI2": {
     "Picture": "spinal_KI2.png",
     "Wins": "0",
-    "Losses": "7",
+    "Losses": "8",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
@@ -11496,8 +11496,8 @@
   "steven-kofa": {
     "Picture": "steven-kofa.png",
     "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Losses": "4",
+    "Ratio": "50",
     "PB_Time": "63.95s"
   },
   "storm-mv": {
@@ -11524,22 +11524,22 @@
   "Stroheim-jojo": {
     "Picture": "Stroheim-jojo.png",
     "Wins": "12",
-    "Losses": "9",
-    "Ratio": "57",
+    "Losses": "10",
+    "Ratio": "55",
     "PB_Time": "22.95s"
   },
   "sub-zero-kofa": {
     "Picture": "sub-zero-kofa.png",
     "Wins": "3",
-    "Losses": "4",
-    "Ratio": "43",
+    "Losses": "5",
+    "Ratio": "38",
     "PB_Time": "65.62s"
   },
   "subzero": {
     "Picture": "subzero.png",
-    "Wins": "13",
-    "Losses": "10",
-    "Ratio": "57",
+    "Wins": "15",
+    "Losses": "11",
+    "Ratio": "58",
     "PB_Time": "12.72s"
   },
   "sugoroku-kofa": {
@@ -11573,8 +11573,8 @@
   "SuperLuigi": {
     "Picture": "SuperLuigi.png",
     "Wins": "7",
-    "Losses": "4",
-    "Ratio": "64",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "26.57s"
   },
   "Superman-mv": {
@@ -11586,16 +11586,16 @@
   },
   "SuperMario": {
     "Picture": "SuperMario.png",
-    "Wins": "7",
-    "Losses": "7",
-    "Ratio": "50",
-    "PB_Time": "26.1s"
+    "Wins": "11",
+    "Losses": "8",
+    "Ratio": "58",
+    "PB_Time": "24.62s"
   },
   "SuperMario64-GOD": {
     "Picture": "SuperMario64-GOD.png",
-    "Wins": "17",
-    "Losses": "5",
-    "Ratio": "77",
+    "Wins": "19",
+    "Losses": "6",
+    "Ratio": "76",
     "PB_Time": "5.62s"
   },
   "SvCEarthQuakeAct-samsho": {
@@ -11650,8 +11650,8 @@
   "takum-kofa": {
     "Picture": "takum-kofa.png",
     "Wins": "1",
-    "Losses": "2",
-    "Ratio": "33",
+    "Losses": "3",
+    "Ratio": "25",
     "PB_Time": "N/A"
   },
   "takuma-aof-kofa": {
@@ -11678,8 +11678,8 @@
   "talbain-DS": {
     "Picture": "talbain-DS.png",
     "Wins": "10",
-    "Losses": "12",
-    "Ratio": "45",
+    "Losses": "13",
+    "Ratio": "43",
     "PB_Time": "24.1s"
   },
   "tam-tam-kofa": {
@@ -11699,8 +11699,8 @@
   "tamamo-kofa": {
     "Picture": "tamamo-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "93.73s"
   },
   "tamtam-samsho": {
@@ -11797,8 +11797,8 @@
   "terry-aof-kofa": {
     "Picture": "terry-aof-kofa.png",
     "Wins": "10",
-    "Losses": "5",
-    "Ratio": "67",
+    "Losses": "6",
+    "Ratio": "63",
     "PB_Time": "42.35s"
   },
   "tetsu-other": {
@@ -11825,8 +11825,8 @@
   "Thanos-MvC": {
     "Picture": "Thanos-MvC.png",
     "Wins": "16",
-    "Losses": "7",
-    "Ratio": "70",
+    "Losses": "8",
+    "Ratio": "67",
     "PB_Time": "10.28s"
   },
   "thawk-SF": {
@@ -11839,8 +11839,8 @@
   "the-flash-kofa": {
     "Picture": "the-flash-kofa.png",
     "Wins": "2",
-    "Losses": "1",
-    "Ratio": "67",
+    "Losses": "2",
+    "Ratio": "50",
     "PB_Time": "N/A"
   },
   "the-riddler-kofa": {
@@ -11852,14 +11852,14 @@
   },
   "The_Mask": {
     "Picture": "The_Mask.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "4",
+    "Losses": "2",
+    "Ratio": "67",
+    "PB_Time": "13.58s"
   },
   "The_Will_Of_Hades-GOD": {
     "Picture": "The_Will_Of_Hades-GOD.png",
-    "Wins": "42",
+    "Wins": "43",
     "Losses": "0",
     "Ratio": "100",
     "PB_Time": "-0.07s"
@@ -11873,9 +11873,9 @@
   },
   "Thunder": {
     "Picture": "Thunder.png",
-    "Wins": "5",
-    "Losses": "6",
-    "Ratio": "45",
+    "Wins": "6",
+    "Losses": "7",
+    "Ratio": "46",
     "PB_Time": "17.6s"
   },
   "thwomp": {
@@ -11888,22 +11888,22 @@
   "tia-neogeo": {
     "Picture": "tia-neogeo.png",
     "Wins": "0",
-    "Losses": "7",
+    "Losses": "8",
     "Ratio": "0",
     "PB_Time": "N/A"
   },
   "tifa-kofa": {
     "Picture": "tifa-kofa.png",
-    "Wins": "3",
-    "Losses": "3",
+    "Wins": "4",
+    "Losses": "4",
     "Ratio": "50",
     "PB_Time": "15.7s"
   },
   "TigreNegro-other": {
     "Picture": "TigreNegro-other.png",
     "Wins": "35",
-    "Losses": "12",
-    "Ratio": "74",
+    "Losses": "13",
+    "Ratio": "73",
     "PB_Time": "7.32s"
   },
   "titan-kofa": {
@@ -11943,24 +11943,24 @@
   },
   "Todoroki": {
     "Picture": "Todoroki.png",
-    "Wins": "16",
-    "Losses": "7",
-    "Ratio": "70",
+    "Wins": "18",
+    "Losses": "9",
+    "Ratio": "67",
     "PB_Time": "24.35s"
   },
   "tohno-melty": {
     "Picture": "tohno-melty.png",
     "Wins": "10",
-    "Losses": "12",
-    "Ratio": "45",
+    "Losses": "14",
+    "Ratio": "42",
     "PB_Time": "28.17s"
   },
   "toki-kofa": {
     "Picture": "toki-kofa.png",
-    "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
-    "PB_Time": "98.95s"
+    "Wins": "2",
+    "Losses": "5",
+    "Ratio": "29",
+    "PB_Time": "98.93s"
   },
   "tokisaki_kurumi": {
     "Picture": "tokisaki_kurumi.png",
@@ -12006,9 +12006,9 @@
   },
   "trevor-kofa": {
     "Picture": "trevor-kofa.png",
-    "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Wins": "8",
+    "Losses": "4",
+    "Ratio": "67",
     "PB_Time": "13.37s"
   },
   "trident-other": {
@@ -12056,8 +12056,8 @@
   "Tsukiumi": {
     "Picture": "Tsukiumi.png",
     "Wins": "14",
-    "Losses": "8",
-    "Ratio": "64",
+    "Losses": "9",
+    "Ratio": "61",
     "PB_Time": "19.67s"
   },
   "Tsuna": {
@@ -12077,8 +12077,8 @@
   "tsunade-neogeo": {
     "Picture": "tsunade-neogeo.png",
     "Wins": "13",
-    "Losses": "7",
-    "Ratio": "65",
+    "Losses": "8",
+    "Ratio": "62",
     "PB_Time": "19.18s"
   },
   "Tsuyu": {
@@ -12182,8 +12182,8 @@
   "Ultimate_Ryu": {
     "Picture": "Ultimate_Ryu.png",
     "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Losses": "4",
+    "Ratio": "64",
     "PB_Time": "28.55s"
   },
   "Ultimate_Sagat": {
@@ -12223,8 +12223,8 @@
   },
   "unlimited-kyo-kofa": {
     "Picture": "unlimited-kyo-kofa.png",
-    "Wins": "12",
-    "Losses": "4",
+    "Wins": "15",
+    "Losses": "5",
     "Ratio": "75",
     "PB_Time": "18.2s"
   },
@@ -12314,9 +12314,9 @@
   },
   "Vegeta_SS4": {
     "Picture": "Vegeta_SS4.png",
-    "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Wins": "9",
+    "Losses": "5",
+    "Ratio": "64",
     "PB_Time": "27.82s"
   },
   "Vegeta_SSBLUE": {
@@ -12405,9 +12405,9 @@
   },
   "vergil": {
     "Picture": "vergil.png",
-    "Wins": "7",
-    "Losses": "3",
-    "Ratio": "70",
+    "Wins": "8",
+    "Losses": "5",
+    "Ratio": "62",
     "PB_Time": "24.75s"
   },
   "Vermouth": {
@@ -12447,9 +12447,9 @@
   },
   "VGA_mario": {
     "Picture": "VGA_mario.png",
-    "Wins": "12",
-    "Losses": "6",
-    "Ratio": "67",
+    "Wins": "15",
+    "Losses": "7",
+    "Ratio": "68",
     "PB_Time": "19.67s"
   },
   "VGA_yoshi": {
@@ -12461,10 +12461,10 @@
   },
   "VGA_zero": {
     "Picture": "VGA_zero.png",
-    "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
-    "PB_Time": "25.03s"
+    "Wins": "10",
+    "Losses": "5",
+    "Ratio": "67",
+    "PB_Time": "23.13s"
   },
   "vice-kof": {
     "Picture": "vice-kof.png",
@@ -12538,16 +12538,16 @@
   },
   "wan-fu-kofa": {
     "Picture": "wan-fu-kofa.png",
-    "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Wins": "4",
+    "Losses": "3",
+    "Ratio": "57",
     "PB_Time": "63.72s"
   },
   "wanfu-samsho": {
     "Picture": "wanfu-samsho.png",
-    "Wins": "21",
-    "Losses": "12",
-    "Ratio": "64",
+    "Wins": "22",
+    "Losses": "13",
+    "Ratio": "63",
     "PB_Time": "9.9s"
   },
   "wang-kofa": {
@@ -12595,15 +12595,15 @@
   "WarMachine-MvC": {
     "Picture": "WarMachine-MvC.png",
     "Wins": "28",
-    "Losses": "12",
-    "Ratio": "70",
+    "Losses": "13",
+    "Ratio": "68",
     "PB_Time": "14s"
   },
   "washizuka-kofa": {
     "Picture": "washizuka-kofa.png",
     "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
+    "Losses": "5",
+    "Ratio": "17",
     "PB_Time": "21.35s"
   },
   "washizuka-lb": {
@@ -12644,8 +12644,8 @@
   "white-kofa": {
     "Picture": "white-kofa.png",
     "Wins": "1",
-    "Losses": "1",
-    "Ratio": "50",
+    "Losses": "2",
+    "Ratio": "33",
     "PB_Time": "N/A"
   },
   "whjmudman-neogeo": {
@@ -12678,23 +12678,23 @@
   },
   "wind-other": {
     "Picture": "wind-other.png",
-    "Wins": "1",
-    "Losses": "19",
-    "Ratio": "5",
-    "PB_Time": "64.88s"
+    "Wins": "2",
+    "Losses": "20",
+    "Ratio": "9",
+    "PB_Time": "53.43s"
   },
   "wolverine-mv": {
     "Picture": "wolverine-mv.png",
-    "Wins": "26",
-    "Losses": "11",
-    "Ratio": "70",
+    "Wins": "31",
+    "Losses": "14",
+    "Ratio": "69",
     "PB_Time": "9.55s"
   },
   "Wolverine-MvC": {
     "Picture": "Wolverine-MvC.png",
     "Wins": "20",
-    "Losses": "9",
-    "Ratio": "69",
+    "Losses": "10",
+    "Ratio": "67",
     "PB_Time": "11.52s"
   },
   "Wonder-mv": {
@@ -12742,8 +12742,8 @@
   "xion-kofa": {
     "Picture": "xion-kofa.png",
     "Wins": "6",
-    "Losses": "3",
-    "Ratio": "67",
+    "Losses": "5",
+    "Ratio": "55",
     "PB_Time": "19.17s"
   },
   "y-kofa": {
@@ -12818,10 +12818,10 @@
   },
   "yashiro-kofa": {
     "Picture": "yashiro-kofa.png",
-    "Wins": "0",
-    "Losses": "1",
-    "Ratio": "0",
-    "PB_Time": "N/A"
+    "Wins": "1",
+    "Losses": "2",
+    "Ratio": "33",
+    "PB_Time": "98.97s"
   },
   "Yato": {
     "Picture": "Yato.png",
@@ -12832,10 +12832,10 @@
   },
   "yen-wang-kofa": {
     "Picture": "yen-wang-kofa.png",
-    "Wins": "6",
-    "Losses": "3",
-    "Ratio": "67",
-    "PB_Time": "9.2s"
+    "Wins": "9",
+    "Losses": "4",
+    "Ratio": "69",
+    "PB_Time": "6.28s"
   },
   "yeorin-kofa": {
     "Picture": "yeorin-kofa.png",
@@ -12888,10 +12888,10 @@
   },
   "young-rugal-kofa": {
     "Picture": "young-rugal-kofa.png",
-    "Wins": "1",
-    "Losses": "2",
-    "Ratio": "33",
-    "PB_Time": "49.52s"
+    "Wins": "2",
+    "Losses": "3",
+    "Ratio": "40",
+    "PB_Time": "27.32s"
   },
   "yuen-other": {
     "Picture": "yuen-other.png",
@@ -12931,8 +12931,8 @@
   "yuki-lb-kofa": {
     "Picture": "yuki-lb-kofa.png",
     "Wins": "3",
-    "Losses": "5",
-    "Ratio": "38",
+    "Losses": "6",
+    "Ratio": "33",
     "PB_Time": "77.5s"
   },
   "yuki-ngbc-kofa": {
@@ -12958,16 +12958,16 @@
   },
   "yuko-kofa": {
     "Picture": "yuko-kofa.png",
-    "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "40.95s"
   },
   "yumeji-kofa": {
     "Picture": "yumeji-kofa.png",
     "Wins": "5",
-    "Losses": "5",
-    "Ratio": "50",
+    "Losses": "6",
+    "Ratio": "45",
     "PB_Time": "25.17s"
   },
   "yumeji-samsho": {
@@ -12980,8 +12980,8 @@
   "yumi-aisu-kofa": {
     "Picture": "yumi-aisu-kofa.png",
     "Wins": "4",
-    "Losses": "3",
-    "Ratio": "57",
+    "Losses": "4",
+    "Ratio": "50",
     "PB_Time": "35.97s"
   },
   "yun-kofa": {
@@ -13056,16 +13056,16 @@
   },
   "yurika-kofa": {
     "Picture": "yurika-kofa.png",
-    "Wins": "6",
-    "Losses": "4",
-    "Ratio": "60",
+    "Wins": "7",
+    "Losses": "5",
+    "Ratio": "58",
     "PB_Time": "42.83s"
   },
   "z": {
     "Picture": "z.png",
     "Wins": "1",
-    "Losses": "4",
-    "Ratio": "20",
+    "Losses": "5",
+    "Ratio": "17",
     "PB_Time": "49.77s"
   },
   "zabel-DS": {
@@ -13077,9 +13077,9 @@
   },
   "zaiko": {
     "Picture": "zaiko.png",
-    "Wins": "27",
-    "Losses": "12",
-    "Ratio": "69",
+    "Wins": "28",
+    "Losses": "13",
+    "Ratio": "68",
     "PB_Time": "15.52s"
   },
   "Zamasu": {
@@ -13190,8 +13190,8 @@
   "zeroko-kofa": {
     "Picture": "zeroko-kofa.png",
     "Wins": "3",
-    "Losses": "2",
-    "Ratio": "60",
+    "Losses": "3",
+    "Ratio": "50",
     "PB_Time": "50.28s"
   },
   "zerozuchi-kofa": {
@@ -13252,9 +13252,9 @@
   },
   "Zoro_JUS": {
     "Picture": "Zoro_JUS.png",
-    "Wins": "12",
-    "Losses": "8",
-    "Ratio": "60",
+    "Wins": "14",
+    "Losses": "9",
+    "Ratio": "61",
     "PB_Time": "29.48s"
   },
   "zx-kofa": {
