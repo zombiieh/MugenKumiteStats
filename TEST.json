@@ -1,14 +1,13 @@
 {
-  "zombiieh": {
-    "2HM2",
-    "5thpolnareff",
-    "A-unagi",
+  "user1": {
+    "Nickname": "Player1",
+    "Characters": [
+      { "name": "CharacterA", "image": "characterA.jpg" },
+      { "name": "CharacterB", "image": "characterB.jpg" }
+    ]
   },
-  "mprQQ": {
-    "a0ermac",
-    "abubo-kofa",
-  },
-  "muffe2k": {
-    "abyss-MvC",
+  "user2": {
+    "Nickname": "Player2",
+    "Characters": []
   }
 }
