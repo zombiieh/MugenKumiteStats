@@ -1,8 +1,8 @@
 {
   "user1": {
-    "Nickname": "Player1",
+    "Nickname": "zombiieh",
     "Characters": [
-      { "name": "CharacterA", "image": "characterA.jpg" },
+      { "name": "BloodColonel", "image": "characterA.jpg" },
       { "name": "CharacterB", "image": "characterB.jpg" }
     ]
   },
