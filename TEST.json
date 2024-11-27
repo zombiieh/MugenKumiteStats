@@ -1,13 +1,10 @@
 {
   "user1": {
     "Nickname": "zombiieh",
-    "Characters": [
-      { "name": "Blood_Colonel-GOD", "image": "characterA.jpg" },
-      { "name": "CharacterB", "image": "characterB.jpg" }
-    ]
+    "Characters": ["Blood_Colonel-GOD", "BigBangDonald-F"]
   },
   "user2": {
-    "Nickname": "Player2",
-    "Characters": []
+    "Nickname": "mprQQ",
+    "Characters": ["uppercut"]
   }
 }
