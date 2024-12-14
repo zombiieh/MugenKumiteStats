@@ -1273,6 +1273,13 @@
     "Ratio": "38",
     "PB_Time": "92.48s"
   },
+  "BarsarahDonald": {
+    "Picture": "BarsarahDonald.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "Bartholomew_Kuma-OP": {
     "Picture": "Bartholomew_Kuma-OP.png",
     "Wins": "11",
@@ -2708,6 +2715,13 @@
     "Ratio": "33",
     "PB_Time": "35.08s"
   },
+  "CorndogDonald-R": {
+    "Picture": "CorndogDonald-R.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "corpse-kofa": {
     "Picture": "corpse-kofa.png",
     "Wins": "6",
@@ -3485,6 +3499,13 @@
     "Ratio": "71",
     "PB_Time": "40.33s"
   },
+  "DoDoDoDoDo": {
+    "Picture": "DoDoDoDoDo.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "Doflamingo-OP": {
     "Picture": "Doflamingo-OP.png",
     "Wins": "10",
@@ -3526,6 +3547,13 @@
     "Losses": "6",
     "Ratio": "63",
     "PB_Time": "17.22s"
+  },
+  "donald_zeta-mix": {
+    "Picture": "donald_zeta-mix.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
   },
   "Donaqhical": {
     "Picture": "Donaqhical.png",
@@ -6747,6 +6775,13 @@
     "Ratio": "30",
     "PB_Time": "61.62s"
   },
+  "JokerKillerSadist": {
+    "Picture": "JokerKillerSadist.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "Jolyne-jojo": {
     "Picture": "Jolyne-jojo.png",
     "Wins": "10",
@@ -9316,6 +9351,13 @@
     "Ratio": "53",
     "PB_Time": "49.02s"
   },
+  "masterchief": {
+    "Picture": "masterchief.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "matam-kofa": {
     "Picture": "matam-kofa.png",
     "Wins": "3",
@@ -9848,6 +9890,13 @@
     "Ratio": "38",
     "PB_Time": "79.35s"
   },
+  "Monald-2nd": {
+    "Picture": "Monald-2nd.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "mono-kofa": {
     "Picture": "mono-kofa.png",
     "Wins": "1",
@@ -10092,6 +10141,13 @@
     "Losses": "6",
     "Ratio": "57",
     "PB_Time": "14.85s"
+  },
+  "Nald_AC19": {
+    "Picture": "Nald_AC19.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
   },
   "nameless-kofa": {
     "Picture": "nameless-kofa.png",
@@ -11086,6 +11142,13 @@
     "Losses": "10",
     "Ratio": "29",
     "PB_Time": "46s"
+  },
+  "Power_Donald": {
+    "Picture": "Power_Donald.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
   },
   "prince-kofa": {
     "Picture": "prince-kofa.png",
@@ -13663,12 +13726,26 @@
     "Ratio": "35",
     "PB_Time": "45.85s"
   },
+  "SpecialForceRubettes": {
+    "Picture": "SpecialForceRubettes.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "SpeedSonic": {
     "Picture": "SpeedSonic.png",
     "Wins": "7",
     "Losses": "6",
     "Ratio": "54",
     "PB_Time": "23.38s"
+  },
+  "SpicyBigMac": {
+    "Picture": "SpicyBigMac.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
   },
   "spiderman-mv": {
     "Picture": "spiderman-mv.png",
@@ -13852,6 +13929,13 @@
     "Ratio": "11",
     "PB_Time": "67.42s"
   },
+  "SunFire_Donald": {
+    "Picture": "SunFire_Donald.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "super-kusanagi-kofa": {
     "Picture": "super-kusanagi-kofa.png",
     "Wins": "7",
@@ -13914,6 +13998,20 @@
     "Losses": "5",
     "Ratio": "62",
     "PB_Time": "5.5s"
+  },
+  "SupremeVegitoEX": {
+    "Picture": "SupremeVegitoEX.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
+  "SurvivorDonald": {
+    "Picture": "SurvivorDonald.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
   },
   "Susanoo": {
     "Picture": "Susanoo.png",
@@ -15098,6 +15196,13 @@
     "Ratio": "40",
     "PB_Time": "71.7s"
   },
+  "ViolenceSoulDonald-R": {
+    "Picture": "ViolenceSoulDonald-R.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "violent-dan-kofa": {
     "Picture": "violent-dan-kofa.png",
     "Wins": "6",
@@ -16113,8 +16218,22 @@
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
+  "Killer-Darkness": {
+    "Picture": "Killer-Darkness.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
   "Lunatic_Blood": {
     "Picture": "Lunatic_Blood.png",
+    "Wins": "0",
+    "Losses": "0",
+    "Ratio": "N/A",
+    "PB_Time": "N/A"
+  },
+  "Purple_Period": {
+    "Picture": "Purple_Period.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
