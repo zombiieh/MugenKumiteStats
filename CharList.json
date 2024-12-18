@@ -1,10 +1,10 @@
 {
   "-BeTeLGeuSe-": {
     "Picture": "-BeTeLGeuSe-.png",
-    "Wins": "0",
+    "Wins": "5",
     "Losses": "0",
-    "Ratio": "N/A",
-    "PB_Time": "N/A"
+    "Ratio": "100",
+    "PB_Time": "6.98s"
   },
   "2HM2": {
     "Picture": "2HM2.png",
@@ -1128,10 +1128,10 @@
   },
   "Azure_Cosmic": {
     "Picture": "Azure_Cosmic.png",
-    "Wins": "0",
+    "Wins": "4",
     "Losses": "0",
-    "Ratio": "N/A",
-    "PB_Time": "N/A"
+    "Ratio": "100",
+    "PB_Time": "-0.12s"
   },
   "Babbage": {
     "Picture": "Babbage.png",
@@ -3544,8 +3544,8 @@
   "dolf-kofa": {
     "Picture": "dolf-kofa.png",
     "Wins": "4",
-    "Losses": "7",
-    "Ratio": "36",
+    "Losses": "8",
+    "Ratio": "33",
     "PB_Time": "10.3s"
   },
   "domino-kofa": {
@@ -3768,8 +3768,8 @@
   "dudereal": {
     "Picture": "dudereal.png",
     "Wins": "12",
-    "Losses": "7",
-    "Ratio": "63",
+    "Losses": "8",
+    "Ratio": "60",
     "PB_Time": "3.48s"
   },
   "dudley-SF": {
@@ -4727,8 +4727,8 @@
   "Gambit-MvC": {
     "Picture": "Gambit-MvC.png",
     "Wins": "9",
-    "Losses": "14",
-    "Ratio": "39",
+    "Losses": "15",
+    "Ratio": "38",
     "PB_Time": "40.57s"
   },
   "gaoh-kofa": {
@@ -5574,8 +5574,8 @@
   "heconko-asamiya-kofa": {
     "Picture": "heconko-asamiya-kofa.png",
     "Wins": "7",
-    "Losses": "7",
-    "Ratio": "50",
+    "Losses": "8",
+    "Ratio": "47",
     "PB_Time": "46.93s"
   },
   "heidern-kof": {
@@ -8472,8 +8472,8 @@
   "LAGASAXO": {
     "Picture": "LAGASAXO.png",
     "Wins": "13",
-    "Losses": "2",
-    "Ratio": "87",
+    "Losses": "3",
+    "Ratio": "81",
     "PB_Time": "-0.4s"
   },
   "Lakitu": {
@@ -11223,8 +11223,8 @@
   "psylocke-mv": {
     "Picture": "psylocke-mv.png",
     "Wins": "20",
-    "Losses": "14",
-    "Ratio": "59",
+    "Losses": "15",
+    "Ratio": "57",
     "PB_Time": "15.23s"
   },
   "psyqhical-kofa": {
@@ -11510,8 +11510,8 @@
   "rasputin-neogeo": {
     "Picture": "rasputin-neogeo.png",
     "Wins": "5",
-    "Losses": "27",
-    "Ratio": "16",
+    "Losses": "28",
+    "Ratio": "15",
     "PB_Time": "36.27s"
   },
   "ravenous-kofa": {
@@ -13288,8 +13288,8 @@
   "SilverSamurai-MvC": {
     "Picture": "SilverSamurai-MvC.png",
     "Wins": "35",
-    "Losses": "19",
-    "Ratio": "65",
+    "Losses": "20",
+    "Ratio": "64",
     "PB_Time": "7.53s"
   },
   "silversurfer-kofa": {
@@ -15871,8 +15871,8 @@
   "Yun-SF": {
     "Picture": "Yun-SF.png",
     "Wins": "2",
-    "Losses": "10",
-    "Ratio": "17",
+    "Losses": "11",
+    "Ratio": "15",
     "PB_Time": "88.6s"
   },
   "yunfei-kofa": {
@@ -16240,112 +16240,112 @@
     "PB_Time": "21.63s"
   },
   "-Inferno-ZERO-Final (Showcase only)": {
-    "Picture": "-Inferno-ZERO-Final (Showcase only).png",
+    "Picture": "-Inferno-ZERO-Final.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "AncientBangDonald (Showcase only)": {
-    "Picture": "AncientBangDonald (Showcase only).png",
+    "Picture": "AncientBangDonald.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "AncientDonald-R (Showcase only)": {
-    "Picture": "AncientDonald-R (Showcase only).png",
+    "Picture": "AncientDonald-R.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "BigBangDonald-F (Showcase only)": {
-    "Picture": "BigBangDonald-F (Showcase only).png",
+    "Picture": "BigBangDonald-F.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "ClownOfDarkness (Showcase only)": {
-    "Picture": "ClownOfDarkness (Showcase only).png",
+    "Picture": "ClownOfDarkness.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "Destroyer (Showcase only)": {
-    "Picture": "Destroyer (Showcase only).png",
+    "Picture": "Destroyer.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "Donario (Showcase only)": {
-    "Picture": "Donario (Showcase only).png",
+    "Picture": "Donario.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "GGS (Showcase only)": {
-    "Picture": "GGS (Showcase only).png",
+    "Picture": "GGS.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "HXX-XXX (Showcase only)": {
-    "Picture": "HXX-XXX (Showcase only).png",
+    "Picture": "HXX-XXX.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "Killer-Darkness (Showcase only)": {
-    "Picture": "Killer-Darkness (Showcase only).png",
+    "Picture": "Killer-Darkness.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "leljbapvu (Showcase only)": {
-    "Picture": "leljbapvu (Showcase only).png",
+    "Picture": "leljbapvu.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "Lunatic_Blood (Showcase only)": {
-    "Picture": "Lunatic_Blood (Showcase only).png",
+    "Picture": "Lunatic_Blood.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "Purple_Period (Showcase only)": {
-    "Picture": "Purple_Period (Showcase only).png",
+    "Picture": "Purple_Period.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "Re.PhantomSoulDonald-R (Showcase only)": {
-    "Picture": "Re.PhantomSoulDonald-R (Showcase only).png",
+    "Picture": "Re.PhantomSoulDonald-R.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "The_Will_of_Demise_EX (Showcase only)": {
-    "Picture": "The_Will_of_Demise_EX (Showcase only).png",
+    "Picture": "The_Will_of_Demise_EX.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
     "PB_Time": "N/A"
   },
   "The_Will_of_Genesis (Showcase only)": {
-    "Picture": "The_Will_of_Genesis (Showcase only).png",
+    "Picture": "The_Will_of_Genesis.png",
     "Wins": "0",
     "Losses": "0",
     "Ratio": "N/A",
